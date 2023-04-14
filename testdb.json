@@ -1,0 +1,90 @@
+{
+    "tv-station":[
+        {
+            "id": 0,
+            "channel": "CITIZEN TV LIVE",
+            "icon": "url",
+            "thumbnail": "url",
+            "description": "Kenya number one station",
+            "views": "url",
+            "status": "url",
+            "contact": [
+                {
+                    "whatsapp": [
+                        {
+                           "phone-no": 254,
+                           "social-icon": "url"
+                        }
+                    ],
+                    "twitter": [
+                        {
+                           "twitter-url": "url",
+                           "social-icon": "url"
+                        }
+                    ],
+                    "facebook": [
+                        {
+                           "facebook-url": "url",
+                           "social-icon": "url"
+                        }
+                    ],
+                    "whatsapp": [
+                        {
+                           "instargram": "url",
+                           "social-icon": "url"
+                        }
+                    ],
+                    "youtube": [
+                        {
+                           "youtube-url": "url",
+                           "social-icon": "url"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "channel": "NTV TV LIVE",
+            "icon": "url",
+            "thumbnail": "url",
+            "description": "Kenya number one station",
+            "views": "url",
+            "status": "url",
+            "contact": [
+                {
+                    "whatsapp": [
+                        {
+                           "phone-no": 254,
+                           "social-icon": "url"
+                        }
+                    ],
+                    "twitter": [
+                        {
+                           "twitter-url": "url",
+                           "social-icon": "url"
+                        }
+                    ],
+                    "facebook": [
+                        {
+                           "facebook-url": "url",
+                           "social-icon": "url"
+                        }
+                    ],
+                    "whatsapp": [
+                        {
+                           "instargram": "url",
+                           "social-icon": "url"
+                        }
+                    ],
+                    "youtube": [
+                        {
+                           "youtube-url": "url",
+                           "social-icon": "url"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
