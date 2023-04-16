@@ -1,11 +1,14 @@
 // Define the base URL for the API
-const baseUrl = 'https://egithub.io/hooleymass/api/channels.json';
+const baseUrl = 'https://hooleymass.github.io/api/channels.json';
 
 // Define the ID of the channel you want to get data for
 const channelId = 'romanza-africa';
 
+// Define the ID of the playlist you want to get data for
+const playlistId = 'romanza-playlist';
+
 // Make a GET request to the channel details endpoint
-fetch(`${baseUrl}${channelId}`)
+fetch(`${baseUrl}/${channelId}`)
   .then(response => response.json())
   .then(data => {
     // Do something with the channel details
@@ -16,7 +19,7 @@ fetch(`${baseUrl}${channelId}`)
   });
 
 // Make a GET request to the channel videos endpoint
-fetch(`${baseUrl}${channelId}/videos`)
+fetch(`${baseUrl}/${channelId}/videos`)
   .then(response => response.json())
   .then(data => {
     // Do something with the channel videos
@@ -25,9 +28,9 @@ fetch(`${baseUrl}${channelId}/videos`)
   .catch(error => {
     console.error('Error fetching channel videos:', error);
   });
-  
+
 // Make a GET request to the playlist videos endpoint
-fetch(`${baseUrl}${channelId}/playlists/${playlistId}/videos`)
+fetch(`${baseUrl}/${channelId}/playlists/${playlistId}/videos`)
   .then(response => response.json())
   .then(data => {
     // Do something with the playlist videos
@@ -38,7 +41,7 @@ fetch(`${baseUrl}${channelId}/playlists/${playlistId}/videos`)
   });
 
 // Make a GET request to the playlist details endpoint
-fetch(`${baseUrl}${channelId}/playlists/${playlistId}`)
+fetch(`${baseUrl}/${channelId}/playlists/${playlistId}`)
   .then(response => response.json())
   .then(data => {
     // Do something with the playlist details
