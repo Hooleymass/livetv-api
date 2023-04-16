@@ -46,6 +46,30 @@
               "language": "en",
               "url": "https://example.com/captions_en.vtt"
             },
+	    "playlists": [
+              {
+                 "id": "playlist-id",
+                 "title": "Playlist Title",
+                 "description": "Playlist Description",
+                 "thumbnail": "thumbnail_url",
+                 "videos": [
+                   {
+                      "id": "video-id",
+                      "title": "Video Title",
+                      "description": "Video Description",
+              	      "thumbnail": "thumbnail_url",
+                      "duration": "video_duration",
+                      "source": {
+                         "url": "source_url",
+                         "type": "source_type"
+                           },
+                 "captions": [
+                   {
+                      "language": "caption_language",
+                      "url": "caption_url"
+                   },
+
+
             {
               "language": "es",
               "url": "https://example.com/captions_es.vtt"
