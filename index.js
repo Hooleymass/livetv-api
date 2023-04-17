@@ -2,7 +2,7 @@ import jsonServer from 'json-server';
 
 const server = jsonServer.create();
 
-const router = jsonServer.router('testdb.json');
+const router = jsonServer.router('./api/dbupdate.json');
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 5000;
 
