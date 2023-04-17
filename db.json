@@ -1,446 +1,94 @@
 {
-    "baseUrl": "https://kenyalivetv.co.ke",
-    "tv-station":[
-        {
-	    "id": 0,
-	    "channel": "CITIZEN TV LIVE",
-	    "icon": "url",
-	    "thumbnail": "url",
-	    "description": "Kenya number one station",
-	    "views": "url",
-	    "status": "url",
-	    "contact": [
-	        {
-		    "whatsapp": [
-		        {
-			   "phone-no": 254,
-			   "social-icon": "url"
-			}
-		    ],
-		    "twitter": [
-                        {
-                           "twitter-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-		    "facebook": [
-                        {
-                           "facebook-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-		    "whatsapp": [
-                        {
-                           "instargram": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-		    "youtube": [
-                        {
-                           "youtube-url": "url",
-                           "social-icon": "url"
-                        }
-                    ]
-		}
-	    ]
-	},
-	{
-            "id": 1,
-            "channel": "NTV TV LIVE",
-            "icon": "url",
-            "thumbnail": "url",
-            "description": "Kenya number one station",
-            "views": "url",
-            "status": "url",
-            "contact": [
-                {
-                    "whatsapp": [
-                        {
-                           "phone-no": 254,
-                           "social-icon": "url"
-                        }
-                    ],
-                    "twitter": [
-                        {
-                           "twitter-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "facebook": [
-                        {
-                           "facebook-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "whatsapp": [
-                        {
-                           "instargram": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "youtube": [
-                        {
-                           "youtube-url": "url",
-                           "social-icon": "url"
-                        }
-                    ]
-                }
-            ]
-        },
-	{
-            "id": 2,
-            "channel": "KCB TV LIVE",
-            "icon": "url",
-            "thumbnail": "url",
-            "description": "Kenya number one station",
-            "views": "url",
-            "status": "url",
-            "contact": [
-                {
-                    "whatsapp": [
-                        {
-                           "phone-no": 254,
-                           "social-icon": "url"
-                        }
-                    ],
-                    "twitter": [
-                        {
-                           "twitter-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "facebook": [
-                        {
-                           "facebook-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "whatsapp": [
-                        {
-                           "instargram": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "youtube": [
-                        {
-                           "youtube-url": "url",
-                           "social-icon": "url"
-                        }
-                    ]
-                }
-            ]
-        },
-	{
-            "id": 3,
-            "channel": "KTN HOME TV LIVE",
-            "icon": "url",
-            "thumbnail": "url",
-            "description": "Kenya number one station",
-            "views": "url",
-            "status": "url",
-            "contact": [
-                {
-                    "whatsapp": [
-                        {
-                           "phone-no": 254,
-                           "social-icon": "url"
-                        }
-                    ],
-                    "twitter": [
-                        {
-                           "twitter-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "facebook": [
-                        {
-                           "facebook-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "whatsapp": [
-                        {
-                           "instargram": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "youtube": [
-                        {
-                           "youtube-url": "url",
-                           "social-icon": "url"
-                        }
-                    ]
-                }
-            ]
-        },
-	{
-            "id": 4,
-            "channel": "KTN NEWS TV LIVE",
-            "icon": "url",
-            "thumbnail": "url",
-            "description": "Kenya number one station",
-            "views": "url",
-            "status": "url",
-            "contact": [
-                {
-                    "whatsapp": [
-                        {
-                           "phone-no": 254,
-                           "social-icon": "url"
-                        }
-                    ],
-                    "twitter": [
-                        {
-                           "twitter-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "facebook": [
-                        {
-                           "facebook-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "whatsapp": [
-                        {
-                           "instargram": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "youtube": [
-                        {
-                           "youtube-url": "url",
-                           "social-icon": "url"
-                        }
-                    ]
-                }
-            ]
-        },
-	{
-            "id": 5,
-            "channel": "ROMANZA PLUS TV LIVE",
-            "icon": "url",
-            "thumbnail": "url",
-            "description": "Kenya number one station",
-            "views": "url",
-            "status": "url",
-            "contact": [
-                {
-                    "whatsapp": [
-                        {
-                           "phone-no": 254,
-                           "social-icon": "url"
-                        }
-                    ],
-                    "twitter": [
-                        {
-                           "twitter-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "facebook": [
-                        {
-                           "facebook-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "whatsapp": [
-                        {
-                           "instargram": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "youtube": [
-                        {
-                           "youtube-url": "url",
-                           "social-icon": "url"
-                        }
-                    ]
-                }
-            ]
-        },
-	{
-            "id": 6,
-            "channel": "3STONES TV LIVE",
-            "icon": "url",
-            "thumbnail": "url",
-            "description": "Kenya number one station",
-            "views": "url",
-            "status": "url",
-            "contact": [
-                {
-                    "whatsapp": [
-                        {
-                           "phone-no": 254,
-                           "social-icon": "url"
-                        }
-                    ],
-                    "twitter": [
-                        {
-                           "twitter-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "facebook": [
-                        {
-                           "facebook-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "whatsapp": [
-                        {
-                           "instargram": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "youtube": [
-                        {
-                           "youtube-url": "url",
-                           "social-icon": "url"
-                        }
-                    ]
-                }
-            ]
-        },
-	{
-            "id": 7,
-            "channel": "LOLWE TV LIVE",
-            "icon": "url",
-            "thumbnail": "url",
-            "description": "Kenya number one station",
-            "views": "url",
-            "status": "url",
-            "contact": [
-                {
-                    "whatsapp": [
-                        {
-                           "phone-no": 254,
-                           "social-icon": "url"
-                        }
-                    ],
-                    "twitter": [
-                        {
-                           "twitter-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "facebook": [
-                        {
-                           "facebook-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "whatsapp": [
-                        {
-                           "instargram": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "youtube": [
-                        {
-                           "youtube-url": "url",
-                           "social-icon": "url"
-                        }
-                    ]
-                }
-            ]
-        },
-	{
-            "id": 8,
-            "channel": "GBSTV LIVE",
-            "icon": "url",
-            "thumbnail": "url",
-            "description": "Kenya number one station",
-            "views": "url",
-            "status": "url",
-            "contact": [
-                {
-                    "whatsapp": [
-                        {
-                           "phone-no": 254,
-                           "social-icon": "url"
-                        }
-                    ],
-                    "twitter": [
-                        {
-                           "twitter-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "facebook": [
-                        {
-                           "facebook-url": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "whatsapp": [
-                        {
-                           "instargram": "url",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "youtube": [
-                        {
-                           "youtube-url": "url",
-                           "social-icon": "url"
-                        }
-                    ]
-                }
-            ]
-        },
-	{
-            "id": 9,
-            "channel": "RAMOGI TV LIVE",
-            "icon": "/channels/3_icon_ramogitv-profile.jpg",
-            "thumbnail": "/channels/3_thumnail_ramogitv.jpg",
-            "description": "Kenya number one station",
-            "views": "url",
-            "status": "url",
-            "contact": [
-                {
-                    "whatsapp": [
-                        {
-                           "phone-no": "tel:+254719060000",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "twitter": [
-                        {
-                           "twitter-url": "https://twitter.com/RamogiTVKe",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "facebook": [
-                        {
-                           "facebook-url": "https://www.facebook.com/RamogiTVKe/",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "instagram": [
-                        {
-                           "instagram": "https://www.instagram.com/ramogitvkenya/",
-                           "social-icon": "url"
-                        }
-                    ],
-                    "youtube": [
-                        {
-                           "youtube-url": "https://m.youtube.com/channel/UCmKXJ4C59JjVVJ-axXfpJcg",
-                           "social-icon": "url",
-			   "Website": "https://www.citizen.digital/tv/ramogi-tv-19",
-			   "app": "https://apk.e-droid.net/apk/app2249637-pqm846.apk?v=2"
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
+  "videos": [
     {
-        "search":[
-            {
-		"id": 9,
-                "keywords": ["Ramogi TV Live" ," ramogi tv", "thapki ramogi tv","ramogi tv launch", "ramogi tv live streaming" ,"ramogi tv live today", "ramogi tv app","live ramogi tv","thapki ramogi tv live today","ramogi tv live stream","ramogi tv live now", "thapki pyar ki ramogi tv" , "ramogi tv thapki" ,"ramogi tv live youtube" ," Ramogi tv Live thapki today"]
-	    }
-	]
-
+      "id": "romanza-africa",
+      "name": "Romanza+ Africa",
+      "description": "Romanza+ Africa is a premium Telenovela television channel compiled especially for Africa. Get your dose of love, betrayal and passion with new episodes everyday. Whether you are looking for a traditional love story or a romance filled with betrayal, action and drama Romanza+ Africa has it all for you.",
+      "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_720p/chunks.m3u8",
+      "channelId": 1,
+      "playlistId": 1,
+      "captions": [1, 2],
+      "suggestedVideos": [2],
+      "videoComments": [1],
+      "videoDetails": {"likes": 100, "dislikes": 10},
+      "channelDetails": {"name": "Channel 1", "description": "Channel 1 description", "subscriberCount": 1000},
+      "playlistDetails": {"title": "Playlist 1", "description": "Playlist 1 description"}
+    },
+    {
+      "id": 2,
+      "name": "Video 2",
+      "description": "Video 2 description",
+      "url": "https://www.youtube.com/watch?v=video2",
+      "channelId": 2,
+      "playlistId": 1,
+      "captions": [],
+      "suggestedVideos": [],
+      "videoComments": [2],
+      "videoDetails": {"likes": 50, "dislikes": 5},
+      "channelDetails": {"name": "Channel 2", "description": "Channel 2 description", "subscriberCount": 2000},
+      "playlistDetails": {"title": "Playlist 1", "description": "Playlist 1 description"}
     }
+  ],
+  "channels": [
+    {
+      "id": "romanza-africa",
+      "name": "Romanza+ Africa",
+      "description": "Channel 1 description",
+      "url": "https://www.youtube.com/channel/channel1",
+      "subscriberCount": 1000,
+      "channelVideos": [1],
+      "channelDetails": {"videos": [1], "playlists": []}
+    },
+    {
+      "id": 2,
+      "name": "Channel 2",
+      "description": "Channel 2 description",
+      "url": "https://www.youtube.com/channel/channel2",
+      "subscriberCount": 2000,
+      "channelVideos": [2],
+      "channelDetails": {"videos": [2], "playlists": []}
+    }
+  ],
+  "playlists": [
+    {
+      "id": 1,
+      "title": "Playlist 1",
+      "description": "Playlist 1 description",
+      "videos": [1, 2],
+      "playlistVideos": [1, 2],
+      "playlistDetails": {"channelId": 1, "channelName": "Channel 1"}
+    }
+  ],
+  "captions": [
+    {
+      "id": 1,
+      "text": "Caption text 1",
+      "videoId": 1
+    },
+    {
+      "id": 2,
+      "text": "Caption text 2",
+      "videoId": 1
+    }
+  ],
+  "videoComments": [
+    {
+      "id": 1,
+      "text": "Great video!",
+      "videoId": 1
+    },
+    {
+      "id": 2,
+      "text": "I love this show!",
+      "videoId": "romanza-africa"
+    },
+    {
+      "id": 3,
+      "text": "Can't wait for the next episode!",
+      "videoId": "romanza-africa"
+    }
+   ]
+   
 }
+
+
