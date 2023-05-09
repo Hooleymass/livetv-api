@@ -26,7 +26,6 @@ if (fs.existsSync(socialDataPath)) {
 
 function extractChannels(html) {
     const channels = [];
-    let id = 0;
 
     const $html = $(html);
     $html.find('.vidme-video-box').each(function() {
@@ -37,14 +36,12 @@ function extractChannels(html) {
         const url = links[name]; // get the URL for the current channel
 
         channels.push({
-	    'id': id,
             'name': name,
             'description': description,
             'thumbnail': thumbnail,
             'liveCounter': liveCounter,
             'url': url // add the URL to the channel object
         });
-        id++; // increment the ID counter
     });
 
     return channels;
@@ -88,6 +85,56 @@ app.get('/channels', (req, res) => {
         }
     });
 });
+
+
+
+/*
+
+// Route to search channels by name
+app.get('/search/:name', (req, res) => {
+    const searchTerm = req.params.name.toLowerCase();
+    const searchResults = [];
+
+    for (const name in links) {
+        if (name.toLowerCase().includes(searchTerm)) {
+            searchResults.push({
+                'name': name,
+                'url': links[name]
+            });
+        }
+    }
+
+    if (searchResults.length > 0) {
+        res.json({'results': searchResults});
+    } else {
+        res.status(404).json({'error': `No channels found matching '${searchTerm}'`});
+    }
+});
+*/
+
+
+// Route to search for channels by name
+app.get('/search', (req, res) => {
+    const searchTerm = req.query.q; // get the search term from the query parameter
+    if (!searchTerm) {
+        res.status(400).json({'error': 'Search term is required'});
+    } else {
+        request(url, (error, response, body) => {
+            if (!error && response.statusCode == 200) {
+                const channels = extractChannels(body);
+                const searchResults = channels.filter(channel => channel.name.toLowerCase().includes(searchTerm.toLowerCase()));
+                res.json({'searchTerm': searchTerm, 'results': searchResults});
+            } else {
+                res.status(500).json({'error': 'Error occurred while searching for channels'});
+            }
+        });
+    }
+});
+
+
+
+
+
 
 // Add route to update stream URLs
 app.put('/links', (req, res) => {
