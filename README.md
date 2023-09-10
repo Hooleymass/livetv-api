@@ -7,11 +7,11 @@ This repository contains several Node.js scripts for scraping data about TV chan
 
 ## Summary
 
-- [tv.js](tv.js): This script scrapes detailed information about TV channels including their names, icons, descriptions, status, and view counts. The data is stored in [tv.json](tv.json).
+- [tv.js](tv/tv.js): This script scrapes detailed information about TV channels including their names, icons, descriptions, status, and view counts. The data is stored in [tv.json](tv.json).
 
-- [streamUrls.js](streamUrls.js): This script is designed to extract video stream URLs of TV channels. The URLs are saved in [urls.json](urls.json).
+- [streamUrls.js](tv/streamUrls.js): This script is designed to extract video stream URLs of TV channels. The URLs are saved in [urls.json](urls.json).
 
-- [social.js](social.js): This script gathers social media links associated with TV channels. The output is saved in [social.json](social.json).
+- [social.js](tv/social.js): This script gathers social media links associated with TV channels. The output is saved in [social.json](social.json).
 
 ## Files and Scripts
 
@@ -19,23 +19,23 @@ This repository contains several Node.js scripts for scraping data about TV chan
 
 - [package-lock.json](package-lock.json) and [package.json](package.json): Node.js package configuration files.
 
-- [social.json](social.json): JSON file containing social media links data.
+- [social.json](tv/social.json): JSON file containing social media links data.
 
-- [social.js](social.js): Script for scraping social media links.
+- [social.js](tv/social.js): Script for scraping social media links.
 
-- [social.md](social.md): README file explaining the purpose and usage of [social.js](social.js).
+- [social.md](tv/social.md): README file explaining the purpose and usage of [social.js](social.js).
 
-- [streamUrls.json](streamUrls.json): JSON file containing video stream URLs data.
+- [streamUrls.json](tv/streamUrls.json): JSON file containing video stream URLs data.
 
-- [streamUrls.js](streamUrls.js): Script for extracting video stream URLs.
+- [streamUrls.js](tv/streamUrls.js): Script for extracting video stream URLs.
 
-- [streamUrls.md](streamUrls.md): README file explaining the purpose and usage of [streamUrls.js](streamUrls.js).
+- [streamUrls.md](tv/streamUrls.md): README file explaining the purpose and usage of [streamUrls.js](streamUrls.js).
 
-- [tv.json](tv.json): JSON file containing detailed information about TV channels.
+- [tv.json](tv/tv.json): JSON file containing detailed information about TV channels.
 
-- [tv.js](tv.js): Script for scraping TV channel details.
+- [tv.js](tv/tv.js): Script for scraping TV channel details.
 
-- [tv.md](tv.md): README file explaining the purpose and usage of [tv.js](tv.js).
+- [tv.md](tv/tv.md): README file explaining the purpose and usage of [tv.js](tv.js).
 
 ## Usage
 
@@ -44,7 +44,7 @@ This repository contains several Node.js scripts for scraping data about TV chan
 2. Install the required packages using npm:
 
    ```bash
-   npm install cheerio axios
+   npm install cheerio axios cors
    ```
 
 3. Run the desired script:
