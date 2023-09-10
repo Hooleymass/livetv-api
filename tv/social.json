@@ -1,0 +1,1926 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/1_thumnail_citizentv.webp",
+    "social": {
+      "Facebook": "https://www.facebook.com/CitizenTVKe/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/citizentvkenya/",
+      "Instagram": "https://www.instagram.com/citizentvkenya/",
+      "YouTube": "https://www.youtube.com/channel/UChBQgieUidXV1CmDxSdRm3g",
+      "Website": "https://www.citizen.digital/",
+      "App": "https://play.google.com/store/apps/details?id=newsapp.citizentv.royalmedia.citizentvnews"
+    }
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/2_thumnail_ktnhome.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/TheKTNHome/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/ktnhome_",
+      "Instagram": "https://www.instagram.com/ktnhome_/",
+      "YouTube": "https://www.youtube.com/channel/UCkWr5PLM8hp8M4WNIkjpKsQ",
+      "Website": "https://www.standardmedia.co.ke/ktnhome/live",
+      "App": ""
+    }
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/3_thumnail_ramogitv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/RamogiTVKe/",
+      "WhatsApp": "tel:+254719060000",
+      "Twitter": "https://twitter.com/RamogiTVKe",
+      "Instagram": "https://www.instagram.com/ramogitvkenya/",
+      "YouTube": "https://m.youtube.com/channel/UCmKXJ4C59JjVVJ-axXfpJcg",
+      "Website": "https://www.citizen.digital/tv/ramogi-tv-19",
+      "App": "https://apk.e-droid.net/apk/app2249637-pqm846.apk?v=2"
+    }
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/4_thumnail_inoorotv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/InooroTV/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/inoorotv",
+      "Instagram": "https://www.instagram.com/inoorotv/",
+      "YouTube": "https://www.youtube.com/c/iNooroTVKenya",
+      "Website": "https://citizen.digital/tv/inooro-tv-14",
+      "App": "https://play.google.com/store/apps/details?id=com.connectredso.inoorotv&hl=en&gl=US"
+    }
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/5_thumnail_hq720_live.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/NTVKenya/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/ntvkenya",
+      "Instagram": "https://www.instagram.com/ntvkenya/",
+      "YouTube": "https://www.youtube.com/channel/UCqBJ47FjJcl61fmSbcadAVg",
+      "Website": "https://ntvkenya.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/6_thumnail_kbctv.jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/KBCChannel1TV/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/KBCChannel1",
+      "Instagram": "https://www.instagram.com/kbcchannel1/",
+      "YouTube": "https://www.youtube.com/channel/UCypNjM5hP1qcUqQZe57jNfg",
+      "Website": "https://www.kbc.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 7,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/7_thumnail_k24tv.png",
+    "social": {
+      "Facebook": "https://m.facebook.com/K24TVNews/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/K24Tv",
+      "Instagram": "https://www.instagram.com/k24tv/",
+      "YouTube": "https://m.youtube.com/channel/UCt3SE-Mvs3WwP7UW-PiFdqQ",
+      "Website": "https://www.k24tv.co.ke/",
+      "App": "https://play.google.com/store/apps/details?id=com.k24plus.app"
+    }
+  },
+  {
+    "id": 8,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/8_thumnail_ktnnews.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/KTNNewsKenya/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/ktnnewske",
+      "Instagram": "https://www.instagram.com/ktnnews/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UCKVsdeoHExltrWMuK0hOWmg",
+      "Website": "https://www.standardmedia.co.ke/ktnnews/",
+      "App": ""
+    }
+  },
+  {
+    "id": 9,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/9_thumnail_lolwetv.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/lolwetv/",
+      "WhatsApp": "https://wa.link/9i2oju",
+      "Twitter": "https://mobile.twitter.com/lolwetv",
+      "Instagram": "https://www.instagram.com/lolwetv/",
+      "YouTube": "https://m.youtube.com/channel/UCv59gwDoN_VKXJcH4rxYkOA",
+      "Website": "https://www.lolwe.tv/",
+      "App": "https://m.apkpure.com/lolwe-tv-kenya/co.ke.lolwetvkenya.app"
+    }
+  },
+  {
+    "id": 10,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/10_thumnail_tv47.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/TV47KE",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/tv47ke",
+      "Instagram": "https://www.instagram.com/tv47ke/",
+      "YouTube": "https://www.youtube.com/TV47Kenya/",
+      "Website": "https://www.tv47.digital/",
+      "App": ""
+    }
+  },
+  {
+    "id": 11,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/11_thumnail_11_thumnail_elimutv.jpg",
+    "social": {
+      "Facebook": "https://mobile.facebook.com/elimutv",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/elimutvkenya",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCVT0cpN1epST6cu9G-dsxhA",
+      "Website": "https://www.elimutv.com",
+      "App": "https://steprimo.com/android/us/app/co.ke.elimutvkenya.app/Elimu-TV-Kenya/"
+    }
+  },
+  {
+    "id": 12,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/12_thumnail_kamemetv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/kamemeTvKenya",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/KamemeTvKenya",
+      "Instagram": "https://www.instagram.com/kamemetv_kenya/?hl=en",
+      "YouTube": "https://www.youtube.com/@KamemeTv",
+      "Website": "https://www.kamemetv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 13,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/13_thumnail_y254tv.jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/Y254Channel",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/Y254Channel",
+      "Instagram": "https://www.instagram.com/y254tv/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UCyN7zreAYtk9mRmuCw4ZzHA",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 14,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/14_thumnail_ebrutv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/EbruTvKenyaOfficial/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/EbruTVKenya",
+      "Instagram": "https://www.instagram.com/ebrutvkenya/",
+      "YouTube": "https://www.youtube.com/channel/UCdYjYt4YGhEbCGMv1fbv0pg",
+      "Website": "https://ebru.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 15,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/15_thumnail_romanzatv.jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": "https://www.appcreator24.com/app1688033-k1ouae"
+    }
+  },
+  {
+    "id": 16,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/16_thumnail_akili-kids.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/AkiliKidsTV/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/akilikids",
+      "Instagram": "https://www.instagram.com/akilikids_tv/?hl=en",
+      "YouTube": "https://www.youtube.com/channel/UCHBIm_ITwYy_FG9iIfIZxGQ",
+      "Website": "https://akilikids.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 17,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/17_thumnail_utv.png",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "https://www.utv.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 18,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/18_thumnail_hlctv.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/HLCTVKE/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/HLCTV1",
+      "Instagram": "https://www.instagram.com/hlctvke/",
+      "YouTube": "https://m.youtube.com/channel/UCK0gnlw4dJq8-HtOMbox0GQ",
+      "Website": "https://m.hlctv.co.ke/",
+      "App": "https://chipapk.com/file/10732541/1/"
+    }
+  },
+  {
+    "id": 19,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/19_thumnail_mukeutv.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 20,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/20_thumnail_jambutv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/jambutvkenya",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/tvjambu?lang=en",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/@jambutvcomplex",
+      "Website": "https://www.jambutv.com",
+      "App": ""
+    }
+  },
+  {
+    "id": 21,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/21_thumnail_lookuptv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/lookuptv",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/lookuptv",
+      "Instagram": "https://www.instagram.com/lookup.tv/",
+      "YouTube": "https://www.youtube.com/@lookuptv_/",
+      "Website": "https://lookuptv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 22,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/22_thumnail_kasstv.webp",
+    "social": {
+      "Facebook": "https://m.facebook.com/pages/category/Broadcasting---media-production-company/KASS-TV-231428846914316/",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCV1OkoCWA3KB9I58Lh0JBdg",
+      "Website": "https://kasstv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 23,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/23_thumnail_23_icon_1662765604301.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/CapuchinTV",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/CapuchinTv",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCHPJTU2lq20S3kQoDONYHgQ",
+      "Website": "https://capuchintv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 24,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/24_thumnail_3-stones-tv.png",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 25,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/25_thumnail_images (5).jpeg",
+    "social": {
+      "Facebook": "https://m.facebook.com/profile.php?id=100063952906924",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/venustvkenya",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCV8685vuurheWRHqcozMslA",
+      "Website": "https://venuskenya.co.ke/",
+      "App": "https://venustv.co.ke/"
+    }
+  },
+  {
+    "id": 26,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/26_thumnail_merutv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/profile.php?id=100063817701640",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "https://www.instagram.com/merutvkenya/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UChFtBrgNJ4jBT9eTHflLkXw",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 27,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/27_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "https://web.facebook.com/HorizonTVKenya/",
+      "WhatsApp": "https://api.whatsapp.com/send?phone=%2B254798974747",
+      "Twitter": "https://twitter.com/horizontvkenya",
+      "Instagram": "https://www.instagram.com/horizontv.kenya/",
+      "YouTube": "https://www.youtube.com/@HorizontvKenya",
+      "Website": "https://www.horizontv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 28,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/28_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "https://web.facebook.com/profile.php?id=100075486477794",
+      "WhatsApp": "tel:+254 706 920202",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/channel/UCruBkRNV0LkYdfcx4hptHFg",
+      "Website": "https://voiceofvictorytv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 29,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/29_thumnail_switchtv-poster.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/switchtvkenya/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/switchtvkenya",
+      "Instagram": "https://www.instagram.com/switchtvke/",
+      "YouTube": "https://m.youtube.com/channel/UCUhrpGr_luwUzVaxiW5Jkhw",
+      "Website": "https://www.switchtv.ke",
+      "App": "https://play.google.com/store/apps/details?id=ke.switchmedia.switchtv"
+    }
+  },
+  {
+    "id": 30,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/30_thumnail_hopetv-profile.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/HopeTVKenya/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/hopetv_ke",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/channel/UClJq8G6FjEeXyMH6UgimnLw",
+      "Website": "https://www.hopemediakenya.org/",
+      "App": ""
+    }
+  },
+  {
+    "id": 31,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/31_thumnail_mutongoitv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/mutongoitv/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/mutongoitvke",
+      "Instagram": "https://www.instagram.com/mutongoi_tv/",
+      "YouTube": "https://m.youtube.com/channel/UC6WdGeTbFycaB3li8ANQ35w",
+      "Website": "http://mutongoitv.co.ke/",
+      "App": "https://apkpure.com/mutongoi-tv-kenya/co.ke.mutongoikenyatv.app/download"
+    }
+  },
+  {
+    "id": 32,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/32_thumnail_download.png",
+    "social": {
+      "Facebook": "https://m.facebook.com/MuugiTv",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCX8Pavd0MLx5ARZtNmkVa8A",
+      "Website": "http://www.wysemediakenya.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 33,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/33_thumnail_spirit-tv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=100082994839124",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 34,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/34_thumnail_tumainitv.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/100063807683119/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/KeTumaini",
+      "Instagram": "https://www.instagram.com/tumaini.tv",
+      "YouTube": "https://www.youtube.com/channel/UCOHNaM_0avoWN_yEnF_Rohg",
+      "Website": "https://tumainitv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 35,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/35_thumnail_download (6).jpeg",
+    "social": {
+      "Facebook": "https://m.facebook.com/gbsafrica/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/gbskenya?lang=en",
+      "Instagram": "https://www.instagram.com/gbstv_africa/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UCFdZnPxkMTuh899c1u8t8yw",
+      "Website": "https://www.gbskenya.com/",
+      "App": ""
+    }
+  },
+  {
+    "id": 36,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/36_thumnail_raiatv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/tvraia",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/tvraia?lang=en",
+      "Instagram": "https://www.instagram.com/raiatv_ke/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UCZI9S6ZMyF6d6APKmat1hZw",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 37,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/37_thumnail_njatatv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/NJATATVOFFICIAL",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/Njatatv",
+      "Instagram": "https://www.instagram.com/njatatv/",
+      "YouTube": "https://www.youtube.com/@njatatv",
+      "Website": "https://njatatv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 38,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/38_thumnail_heavenboundtv.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/110183244041439/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/HeavenBoundTV",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCC_FIazcTrwBv1Egcc1sgkA",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 39,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/39_thumnail_yahwehstv.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=100080442011780",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCyAQ7LctVoHY-Zg4af1DX5g",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 40,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/40_thumnail_download (6).jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 41,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/41_thumnail_moptv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=100078959430306",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 42,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/42_thumnail_photo22.png",
+    "social": {
+      "Facebook": "https://web.facebook.com/TvEBN",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/TvEbn",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/c/EcclesiaBroadcastingNetwork?app=desktop",
+      "Website": "https://www.ebn.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 43,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/43_thumnail_download (7).jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 44,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/44_thumnail_hq720_live.webp",
+    "social": {
+      "Facebook": "https://www.facebook.com/newlifemavueni",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCk3buHLJP6KAcbtsw8fj4hg",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 45,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/45_thumnail_download.png",
+    "social": {
+      "Facebook": "https://m.facebook.com/profile.php?id=100065062419990",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/thstonet",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 46,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/46_thumnail_familytv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/TBNFamilyTVKenya",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/FamilyMediaTV",
+      "Instagram": "https://www.instagram.com/familymediakenya/",
+      "YouTube": "https://www.youtube.com/channel/UCaezQJtBqkyuNFN8bGmBeMQ",
+      "Website": "https://familymedia.tv/",
+      "App": ""
+    }
+  },
+  {
+    "id": 47,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/47_thumnail_images.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/hckadventist/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/Hope_Kenya",
+      "Instagram": "https://www.instagram.com/hopechannelkenya/",
+      "YouTube": "https://www.youtube.com/channel/UC-ugP6AcvKwiO8gs5BnEXkA",
+      "Website": "https://hck.co.ke/",
+      "App": "https://play.google.com/store/apps/details?id=de.stimmederhoffnung.hopechannel"
+    }
+  },
+  {
+    "id": 48,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/48_thumnail_farmerstv-poster.jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/KTNfarmerstv",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/farmkenya254",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCZfzFgmReSD09S2L-cvg8uA",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 49,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/49_thumnail_cmtv.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 50,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/50_thumnail_images.png",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 51,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/51_thumnail_51_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 52,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/52_thumnail_nurutv.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 53,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/53_thumnail_uvorotv.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 54,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/54_thumnail_daesaktv.png",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 55,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/55_thumnail_enchipaitv.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 56,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/56_thumnail_kingdomtv.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/KingdomTV247/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/KingdomTV247",
+      "Instagram": "https://instagram.com/KingdomTV247",
+      "YouTube": "https://m.youtube.com/@kingdomtvkenya4374/",
+      "Website": "https://kingdomtelevision.tv/",
+      "App": ""
+    }
+  },
+  {
+    "id": 57,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/57_thumnail_Landscape_Elevate-TV-Logo_White-BG-768x227.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/ElevateTvKenya",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/Elevatetv_",
+      "Instagram": "https://www.instagram.com/_elevatetv/",
+      "YouTube": "https://m.youtube.com/@elevatetvkenya2218",
+      "Website": "https://www.elevatetv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 58,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/58_thumnail_btl-tv.webp",
+    "social": {
+      "Facebook": "https://m.facebook.com/profile.php?id=100064233543696",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 59,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/59_thumnail_elisam-tv.jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/ElisamtvKe",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/TvElisamKenya",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCJmod6pLnxPtzSxAgsdrpvg",
+      "Website": "https://elisam.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 60,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/60_thumnail_inchristtv.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/ictvkenya",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/Inchristtv",
+      "Instagram": "https://www.instagram.com/inchrist_tv/",
+      "YouTube": "https://m.youtube.com/channel/UCgCm3doVzNO9cf0HkbpfmXQ",
+      "Website": "https://www.faithembassymedia.com/",
+      "App": ""
+    }
+  },
+  {
+    "id": 61,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/61_thumnail_WhatsApp-Image-2021-12-16-at-7.19.37-PM-1.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/MutembeiTV",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/MutembeiTV",
+      "Instagram": "https://www.youtube.com/embed/57xESVpVzD8",
+      "YouTube": "https://m.youtube.com/c/MutembeiTV/",
+      "Website": "https://mutembeitv.com/",
+      "App": ""
+    }
+  },
+  {
+    "id": 62,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/62_thumnail_hq720.webp",
+    "social": {
+      "Facebook": "https://www.facebook.com/KirkTVKenya/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/kirktv_kenya",
+      "Instagram": "https://www.instagram.com/kirktvkenya/",
+      "YouTube": "https://www.youtube.com/channel/UCYY18Magpox4H2wMJIXRjnA",
+      "Website": "https://www.kirktv.org/",
+      "App": ""
+    }
+  },
+  {
+    "id": 63,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/63_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/GIKUYUTVOFFICIA/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/tv_gikuyu",
+      "Instagram": "https://instagram.com/gikuyu-tv",
+      "YouTube": "https://m.youtube.com/channel/UCOlx2suH8RZnOgzsAiHPjqw",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 64,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/64_thumnail_download.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/mzalendotv",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/MzalendoTv",
+      "Instagram": "https://www.instagram.com/mzalendotv_official/?hl=en",
+      "YouTube": "https://www.youtube.com/@mzalendotvkenya3994",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 65,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/65_thumnail_nissitv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/nissitelevision",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCgoQgVST6YzOaCKl45Gjktg",
+      "Website": "https://nissitelevision.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 66,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/66_thumnail_gpgtv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/profile.php?id=100086705712209",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "https://www.instagram.com/gpgtv/",
+      "YouTube": "https://m.youtube.com/channel/UCgxiJFsuaXilolRXtrRcKcA",
+      "Website": "https://gpgtv.net/",
+      "App": ""
+    }
+  },
+  {
+    "id": 67,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/67_thumnail_mbcitv.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/1524879461119728/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/mbcitvofficial?lang=en",
+      "Instagram": "https://www.instagram.com/officialmbci_tv/",
+      "YouTube": "https://m.youtube.com/channel/UCtnEZfBxtAiH0_W1pleUxBg",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 68,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/68_thumnail_alltimetv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/alltimetvke",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "https://instagram.com/alltimetvke",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 69,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/69_thumnail_download (2).jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 70,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/70_thumnail_signstv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/signstvkenya/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/SignsTvKenya",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCaUubK7_VrPJnzB_-hiRJlA",
+      "Website": "https://signstv.co.ke/",
+      "App": "https://play.google.com/store/apps/details?id=com.app.assistall"
+    }
+  },
+  {
+    "id": 71,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/71_thumnail_download (7).jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 72,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/72_thumnail_soatv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/soatvke",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCTNrsKWlgZVOWENHuHJiQHQ",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 73,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/73_thumnail_download (2).jpeg",
+    "social": {
+      "Facebook": "https://web.facebook.com/pppmusictv",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/PPPTV_ke",
+      "Instagram": "https://www.instagram.com/ppp_tv/?hl=en",
+      "YouTube": "https://www.youtube.com/channel/UCCtBJ9MP1PE_A1Qz4AUi46Q",
+      "Website": "https://www.triplep.tv",
+      "App": "http://m.startimestv.com/hybrid/lands/"
+    }
+  },
+  {
+    "id": 74,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/74_thumnail_startv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/startvhabari",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/startvhabari1",
+      "Instagram": "https://www.instagram.com/habaristartv/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UCd-cvo8No73ihRVucTzCR8Q",
+      "Website": "https://startv.co.tz/",
+      "App": ""
+    }
+  },
+  {
+    "id": 75,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/75_thumnail_arktvuganda.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/permalink.php?id=103004131062413&story_fbid=436977754331714",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/ArkTV7",
+      "Instagram": "https://www.instagram.com/arktv03/",
+      "YouTube": "https://www.youtube.com/channel/UCzi4wJt3YMBvrB2trkIId6Q",
+      "Website": "https://arktelevision.org/",
+      "App": "https://play.google.com/store/apps/details?id=org.holycityentebbe.arktv"
+    }
+  },
+  {
+    "id": 76,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/76_thumnail_mwangazatv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/Mwangazatv",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/mwangaza_tv",
+      "Instagram": "https://www.instagram.com/mwangazatvkenya/",
+      "YouTube": "https://www.youtube.com/@mwangazatvkenya6671",
+      "Website": "https://www.mwangazatv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 77,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/77_thumnail_plugtv-profile.png",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 78,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/78_thumnail_hq720_live-2.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 79,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/79_thumnail_france24.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 80,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/80_thumnail_images (1).jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/theoneaccordtv",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/theoneaccordtv?lang=en",
+      "Instagram": "https://www.instagram.com/oneaccord_tv/",
+      "YouTube": "https://m.youtube.com/channel/UC3igbOfjItm-Ea21KzLKtig",
+      "Website": "https://oneaccord.tv/",
+      "App": ""
+    }
+  },
+  {
+    "id": 81,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/81_thumnail_download (3).jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 82,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/82_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "https://m.facebook.com/NTVUganda/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/NTVUganda",
+      "Instagram": "https://instagram.com/NTVUganda",
+      "YouTube": "https://m.youtube.com/channel/UCwga1dPCqBddbtq5KYRii2g",
+      "Website": "https://www.ntv.co.ug/",
+      "App": "https://m.apkpure.com/ntv-uganda-tv/co.ke.ntvugandatv.app/download?from=details"
+    }
+  },
+  {
+    "id": 83,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/83_thumnail_images (1).jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 84,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/84_thumnail_pillartv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/www.pillartv.co.ke",
+      "WhatsApp": "tel:+254798673426",
+      "Twitter": "https://twitter.com/pillar_tv",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCO5QmrE_ba61FjVrE8p7Utg",
+      "Website": "http://pillartv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 85,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/85_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "https://tbc.go.tz/tbc1/",
+      "App": ""
+    }
+  },
+  {
+    "id": 86,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/86_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "https://tbc.go.tz/tbc2/",
+      "App": ""
+    }
+  },
+  {
+    "id": 87,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/87_thumnail_download.jpeg",
+    "social": {
+      "Facebook": "https://m.facebook.com/BukeddeTV/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/bukeddeonline",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/user/bukeddetv",
+      "Website": "https://www.bukedde.co.ug/",
+      "App": ""
+    }
+  },
+  {
+    "id": 88,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/88_thumnail_download (2).jpeg",
+    "social": {
+      "Facebook": "https://m.facebook.com/BukeddeTV/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/bukeddeonline",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/user/bukeddetv",
+      "Website": "https://www.bukedde.co.ug/",
+      "App": ""
+    }
+  },
+  {
+    "id": 89,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/89_thumnail_download (1).jpeg",
+    "social": {
+      "Facebook": "https://m.facebook.com/people/EDU-TV-Kenya/100066703086551/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/KICDKenya",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCByj0XrDmb0UDUui63EOnhA/",
+      "Website": "https://kicd.ac.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 90,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/90_thumnail_download.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/utanatvkenya",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/utanatv?lang=en",
+      "Instagram": "https://www.instagram.com/utanatv/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UConYL8NFAP86yZGgFW-d-zg",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 91,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/91_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 92,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/92_thumnail_images (1).jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/bbcnews",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/BBCNews",
+      "Instagram": "https://www.instagram.com/bbcnews",
+      "YouTube": "https://m.youtube.com/c/BBCNews/",
+      "Website": "https://www.bbc.com/news",
+      "App": "https://play.google.com/store/apps/details?id=bbc.mobile.news.ww"
+    }
+  },
+  {
+    "id": 93,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/93_thumnail_hq720_live.webp",
+    "social": {
+      "Facebook": "https://facebook.com/channelsforum",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/channelstv",
+      "Instagram": "https://instagram.com/channelstelevision",
+      "YouTube": "https://m.youtube.com/c/ChannelsTelevision/",
+      "Website": "https://www.channelstv.com/",
+      "App": ""
+    }
+  },
+  {
+    "id": 94,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/94_thumnail_mqdefault.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/nyotatv1",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/c/NYOTATVNEWS",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 95,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/95_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/africanews.channel/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/africanews",
+      "Instagram": "https://Instagram.com/africanews",
+      "YouTube": "https://m.youtube.com/c/africanews",
+      "Website": "http://africanews.com/",
+      "App": "https://play.google.com/store/apps/details?id=com.africanews.android"
+    }
+  },
+  {
+    "id": 96,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/96_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "https://m.facebook.com/hisgracetv/",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCG2ML2Ibfz4_bAGqkL6nB4w",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 97,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/97_thumnail_faithtv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/faithtvkenya/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/faithtvkenya",
+      "Instagram": "https://www.instagram.com/faithtvkenya/",
+      "YouTube": "https://www.youtube.com/channel/UCQFnIxX1vwsqW7MPcJdYTeg",
+      "Website": "https://faithtv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 98,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/99_thumnail_IMG-20220926-WA0007.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://youtube.com/channel/UCRBP3qTIV3NHoObHp_Xjf1Q",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 99,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/100_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 100,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/101_thumnail_1664842400356.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 101,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/102_thumnail_images.png",
+    "social": {
+      "Facebook": "https://m.facebook.com/DestinyVoicesTv/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/destinyvoiceske",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCreSRwMdBpRI1ePv4fEInZg",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 102,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/102_thumnail_sasatv-poster.png",
+    "social": {
+      "Facebook": "https://m.facebook.com/SasatvKE/",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCjbYD8Fab8JAessaV7G9eqQ",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 103,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/104_thumnail_images (1).jpeg",
+    "social": {
+      "Facebook": "https://m.facebook.com/Getembetv/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/getembetv",
+      "Instagram": "https://www.instagram.com/getembetv/",
+      "YouTube": "https://m.youtube.com/c/getembetvkisiiofficial",
+      "Website": "https://getembetv.co.ke/",
+      "App": "https://play.google.com/store/apps/details?id=com.getembetv.app"
+    }
+  },
+  {
+    "id": 104,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/105_thumnail_images.jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/kambatvke/",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "https://kambatv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 105,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/105_thumnail_nyumbaiitutv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/Nyumba3/",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "https://nyumbaiitutv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 106,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/106_thumnail_muthingitv-poster.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/MUTHINGITVFM/",
+      "WhatsApp": "https://api.whatsapp.com/send?phone=%2B254706847247&fbclid=IwAR1a-Lyzrj08SOkvK-cNeKMljC3rNqfSaPJiqv4bAX8e0F9PHfC4F5qKbgo",
+      "Twitter": "https://twitter.com/muthingitvfm",
+      "Instagram": "https://instagram.com/muthingitv",
+      "YouTube": "https://m.youtube.com/channel/UCDhk0EUJxVUTEqjg-S8cung",
+      "Website": "https://lookuptv.co.ke/muthingitvlivestream/",
+      "App": "https://apps.digitaltv.co.ke/live/2005_480p1128kbs/index.m3u8"
+    }
+  },
+  {
+    "id": 107,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/108_thumnail_favorofgodtv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/favourofGodTV/",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/channel/UCHWKDBoar5YogGR06OIvT7Q",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 108,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/108_thumnail_tandaotv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/tandaotv",
+      "WhatsApp": "tel:+254 701 066991",
+      "Twitter": "https://twitter.com/TandaoTvKenya",
+      "Instagram": "https://www.instagram.com/tandaotv/",
+      "YouTube": "https://m.youtube.com/channel/UCTvli8YpXf5-NhjgTXPqkBw",
+      "Website": "https://tandaomedia.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 109,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/109_thumnail_werutv.webp",
+    "social": {
+      "Facebook": "https://www.facebook.com/werutv",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/werutv",
+      "Instagram": "https://instagram.com/werutv",
+      "YouTube": "https://www.youtube.com/channel/UCKf9xsi0uL1mwdrq7PmZsQA",
+      "Website": "http://werutv.co.ke",
+      "App": ""
+    }
+  },
+  {
+    "id": 110,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/110_thumnail_ukombozitv.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/UkomboziTVKenya/",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/channel/UCc8voWvUCC5NkKJvkrU46ZA",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 111,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/111_thumnail_elshaddaitv.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/ElshaddaiTvKenya/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/elshaddaitvke",
+      "Instagram": "https://www.instagram.com/elshaddaitvkenya/?hl=en",
+      "YouTube": "https://www.youtube.com/channel/UCvKa75EDxDhbTNLXRI7kSRA/",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 112,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/112_thumnail_weegatv.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/WeegaTv/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/weegatv",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCd16EVvI63vVjwI8pGViGPw",
+      "Website": "https://www.weegatv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 113,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/113_thumnail_testimonytv-poster.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/UZcce/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/totministries",
+      "Instagram": "https://www.instagram.com/testimony__tv/?hl=en",
+      "YouTube": "https://www.youtube.com/channel/UCDmLoDM4S60MhbfmO2yr_SA",
+      "Website": "https://testimony-tv.com/",
+      "App": ""
+    }
+  },
+  {
+    "id": 114,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/114_thumnail_repowertv-poster.jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=100083229847731",
+      "WhatsApp": "https://api.whatsapp.com/send?phone=+254713676651",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/@repowertvkenya7447/",
+      "Website": "http://repowertv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 115,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/115_thumnail_dgtv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/DGTVKe",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/DgtvKenya",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UChk71_i62pjZ0UHdOSyrEoA/",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 116,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/116_thumnail_truthtv-poster.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/truthtvkenya",
+      "WhatsApp": "",
+      "Twitter": "https://www.twitter.com/truthtvkenya",
+      "Instagram": "https://www.instagram.com/truthtv_kenya",
+      "YouTube": "https://m.youtube.com/@truthtvkenya2450",
+      "Website": "https://truthtvkenya.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 117,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/117_thumnail_helicop-poster.png",
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=100083860772958",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/@helicoptertv4029",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 118,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/118_thumnail_massatv.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/MassaTVKe",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "http://www.massatv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 119,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/119_thumnail_githima-tv-poster.jpeg",
+    "social": {
+      "Facebook": "https://www.facebook.com/GithimaTVOfficial/",
+      "WhatsApp": "https://api.whatsapp.com/send?phone=+254708412342&text=Hello%20,%20Githima%20TV,%20i%20would%20like%20to%20Find%20More%20Information%20About%20You",
+      "Twitter": "https://www.twitter.com/githimatvofficial/",
+      "Instagram": "https://www.instagram.com/githimatvofficial/",
+      "YouTube": "https://www.youtube.com/@githimatvofficial/",
+      "Website": "http://www.githimatv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 120,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/120_thumnail_jiam-jbn-poster.jpeg",
+    "social": {
+      "Facebook": "https://m.facebook.com/jbntelevision/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/jbntelevision",
+      "Instagram": "https://www.instagram.com/jbntelevision/",
+      "YouTube": "https://m.youtube.com/c/jbntelevision/",
+      "Website": "https://jiam.org/",
+      "App": ""
+    }
+  },
+  {
+    "id": 121,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/121_thumnail_ndurutv-poster.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/Ndurumeni-TV-109524518258290/",
+      "WhatsApp": "https://api.whatsapp.com/send?phone=254765594428&data=AWCRWCI-xBtRBGd3jpcwfThIgXIRGicZ6YGHf9niDT-aPbmsphc9bOuZCtSmkkiYHdWEBgNiHkcLID3Vhy16DBNFHHRdOHoACAsvvRTofQYzGFyon4RdBJrtS_hbkGAqT8gXtqHQVSiHPj7nPhEOzl7b74vafKuw75q1zr0A3MB3LB7hA2iMaEMX0ub0eLsUL-5xaIv33AIY1DvpYVDrqTpBhvs8Vz5F9CBTYIejm6hIP8YOteQ9YCjAu3594gFrrsFq9IiPNWXH9Ui6u4tcAw&source=FB_Page&app=facebook&entry_point=page_cta&fbclid=IwAR25XjHoSVeRUwdkRt69UDEmiZkhQ2EuGeoIxDxf2yzrpAZjDVYW5175bDE",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/@ndurumenitv887",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 122,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/122_thumnail_Goshentv~2.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/WondersTabernacleChurchRuiru/",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/wtc_kenya",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCN62Zc1jpAOinPyOfzIjYOA/",
+      "Website": "https://goshenwonders.com/",
+      "App": ""
+    }
+  },
+  {
+    "id": 123,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/123_thumnail_deliverancetv-poster~2.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/people/Deliverance-TV/100063590019940/",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/deliverance_tv",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/@deliverancetvwithapostlemu854/",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 124,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/124_thumnail_urejeshotv.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/profile.php?id=100083271372868",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/@urejeshotvafrica",
+      "Website": "https://www.urejeshotv.com/",
+      "App": ""
+    }
+  },
+  {
+    "id": 125,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/127_thumnail_1675112627938.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/100083270322481/",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCc3QkBikk5ajn-66h_YHmwA",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 126,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/128_thumnail_goodwilltv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=100088498580173",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 127,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/129_thumnail_zoetv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/zoetvkenya",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "https://www.instagram.com/zoetv_ke/?hl=en",
+      "YouTube": "https://m.youtube.com/@zoetv2608",
+      "Website": "https://zoetv.co.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 128,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/130_thumnail_westtv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/Westtvkenya",
+      "WhatsApp": "tel:0705780844",
+      "Twitter": "https://twitter.com/westtv_kenya",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/@WestTvKenya",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 129,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/131_thumnail_cocomelon.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/CoComelonKids",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/cocomelonkids",
+      "Instagram": "https://www.instagram.com/cocomelon_official/",
+      "YouTube": "https://www.facebook.com/CoComelonKids",
+      "Website": "https://cocomelon.com/",
+      "App": ""
+    }
+  },
+  {
+    "id": 130,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/132_thumnail_aviationtv.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/PeterManyuru",
+      "Instagram": "https://www.instagram.com/petermanyuru/",
+      "YouTube": "https://m.youtube.com/channel/UCCpHtTo5Qs1gMZAD7q7fHmQ",
+      "Website": "https://www.aviationtv.or.ke/",
+      "App": ""
+    }
+  },
+  {
+    "id": 131,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/133_thumnail_Oracle-tv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/oracletvnetwork",
+      "WhatsApp": "",
+      "Twitter": "https://mobile.twitter.com/theoracletv?lang=en",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCM1KI9TehkXwd2iLj7EbGeA",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 132,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/134_thumnail_ithagatv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=100085832741954",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 133,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/137_thumnail_mofire-tv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/profile.php?id=100087525576765",
+      "WhatsApp": "https://api.whatsapp.com/send?phone=254115312618&text=Hello!",
+      "Twitter": "https://twitter.com/moftvke",
+      "Instagram": "https://www.instagram.com/moftvke/",
+      "YouTube": "https://m.youtube.com/channel/UC-GobfsmiVucOlOWEpMDZ3g",
+      "Website": "https://mountainoffiretv.com/",
+      "App": ""
+    }
+  },
+  {
+    "id": 134,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/138_thumnail_AfroSportstv.jpg",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 135,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/139_thumnail_jcctv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/JCCTV7",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/JccKenya",
+      "Instagram": "https://www.instagram.com/jcckenya/",
+      "YouTube": "https://m.youtube.com/@JccParklandsKenya",
+      "Website": "https://www.jcckenya.org/",
+      "App": ""
+    }
+  },
+  {
+    "id": 136,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/140_thumnail_jcmtv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/profile.php?id=100092353584663",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://www.youtube.com/@jcmtvkenya254",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 137,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/141_thumnail_doxatvke.jpg",
+    "social": {
+      "Facebook": "https://m.facebook.com/doxatvkenya",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/dkitengela?lang=en",
+      "Instagram": "https://www.instagram.com/doxatv.ke?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UCsjOTZT2jPf7o3bDU-rQ1jg",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 138,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/142_thumnail_tvwest.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/tvwest.nehinda/",
+      "WhatsApp": "",
+      "Twitter": "https://www.twitter.com/@tvwestUG",
+      "Instagram": "https://www.instagram.com/tvwestug",
+      "YouTube": "https://www.youtube.com/c/TVWestUganda",
+      "Website": "https://www.tvwest.co.ug/",
+      "App": ""
+    }
+  },
+  {
+    "id": 139,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/143_thumnail_alhudatv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/profile.php?id=100091531840892",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/alhuda_tv",
+      "Instagram": "https://www.instagram.com/alhuda_tv/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UCdTAsRrQEp-IVoMzKoRG4ZQ",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 140,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/144_thumnail_mizpahtv.png",
+    "social": {
+      "Facebook": "https://web.facebook.com/mizpahtv.ke",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/mizpahtv?lang=en",
+      "Instagram": "https://www.instagram.com/mizpah_house_of_prayer/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UCF9yr4UH50kxkxf6R8CkA8A",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 141,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/145_thumnail_winnertv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/profile.php?id=100090078121470",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/@winnertvke",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 142,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/146_thumnail_salttvug.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/SalttelevisionUganda",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/SaltTvUganda",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCJWxzCeGTFkX7OiGSaOpGbw",
+      "Website": "https://saltmedia.ug/live.html",
+      "App": ""
+    }
+  },
+  {
+    "id": 143,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/147_thumnail_tveast.png",
+    "social": {
+      "Facebook": "https://web.facebook.com/TvEastUg",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "https://www.newvision.co.ug/tv/16",
+      "App": ""
+    }
+  },
+  {
+    "id": 144,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/148_thumnail_urban-tv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/UrbanTVUg",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/UrbanTVUganda",
+      "Instagram": "https://www.instagram.com/urbantvuganda/",
+      "YouTube": "https://www.youtube.com/channel/UCNEvA5GEeJ9KuynQWHtcgXw",
+      "Website": "https://www.newvision.co.ug/tv/3",
+      "App": ""
+    }
+  },
+  {
+    "id": 145,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/149_thumnail_wavetimetv.png",
+    "social": {
+      "Facebook": "",
+      "WhatsApp": "",
+      "Twitter": "",
+      "Instagram": "",
+      "YouTube": "",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 146,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/150_thumnail_mashariki-tv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/masharikionline",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/mashariki_tv",
+      "Instagram": "https://www.instagram.com/mashariki_tv/?hl=en",
+      "YouTube": "https://m.youtube.com/channel/UCLXwY3fNPbTSK7b2y-2JhpA",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 147,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/151_thumnail_mamlaka-tv.jpg",
+    "social": {
+      "Facebook": "https://www.facebook.com/mamlakatvke",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/mamlakatv_ke",
+      "Instagram": "https://www.instagram.com/mamlakatelevisionmedia/",
+      "YouTube": "https://m.youtube.com/channel/UCLYXfLiMpt1E2SsVnhyY_xA",
+      "Website": "",
+      "App": ""
+    }
+  },
+  {
+    "id": 148,
+    "thumbnail": "https://kenyalivetv.co.ke/channels/152_thumnail_baite-tv.jpg",
+    "social": {
+      "Facebook": "https://web.facebook.com/baite.co.ke",
+      "WhatsApp": "",
+      "Twitter": "https://twitter.com/baite_tv?lang=en",
+      "Instagram": "",
+      "YouTube": "https://m.youtube.com/channel/UCKk2VU9VEXwpHTX0G1YELZw",
+      "Website": "https://baite.co.ke/",
+      "App": ""
+    }
+  }
+]

@@ -1,146 +1,68 @@
 const express = require('express');
-const app = express();
-const PORT = process.env.PORT || 5000;
-const url = 'https://www.kenyalivetv.co.ke/tv';
 const fs = require('fs');
-const request = require('request');
-const { JSDOM } = require('jsdom');
-const { window } = new JSDOM('');
-const $ = require('jquery')(window);
+const cors = require('cors'); // Added cors middleware
 
-// Define empty JSON objects for links and social links
-let links = {};
-let socialLinks = {};
+const app = express();
 
-// Read the link.json file if it exists
-const linkDataPath = './tv/tv_details/stream_url.json';
-if (fs.existsSync(linkDataPath)) {
-    links = JSON.parse(fs.readFileSync(linkDataPath));
+// Allow all origins for CORS
+app.use(cors());
+
+// Load data from JSON files
+const tvData = JSON.parse(fs.readFileSync('./tv/tv.json'));
+const urlsData = JSON.parse(fs.readFileSync('./tv/urls.json'));
+const socialData = JSON.parse(fs.readFileSync('./tv/social.json'));
+
+// Load updates (if available)
+let updates = [];
+if (fs.existsSync('./tv/update.json')) {
+  updates = JSON.parse(fs.readFileSync('./tv/update.json'));
+} else {
+  console.log('No update available');
 }
 
-// Read the social_links.json file if it exists
-const socialDataPath = './tv/tv_details/socialLinks.json';
-if (fs.existsSync(socialDataPath)) {
-    socialLinks = JSON.parse(fs.readFileSync(socialDataPath));
-}
+// Merge the data to create the final TV channel information
+const mergedData = tvData.map(channel => {
+  const urlsInfo = urlsData.urls.find(urlInfo => urlInfo.id === channel.id);
+  const socialInfo = socialData[channel.id - 1];
+  const streamUrls = urlsInfo ? urlsInfo.streamUrls.filter(url => url.trim() !== "") : [];
 
-function extractChannels(html) {
-    const channels = [];
-    let id = 0;
+  const update = updates.find(u => u.id === channel.id);
+  if (update) {
+    Object.assign(channel, update.updates);
+  }
 
-    const $html = $(html);
-    $html.find('.vidme-video-box').each(function() {
-        const name = $(this).find('.name a').text().trim();
-        const description = $(this).find('.tv-short-description').text().trim();
-        const thumbnail = `https://kenyalivetv.co.ke/${$(this).find('.vidme-video-thumbnail img').attr('src').substring(3)}`;
-        const liveCounter = $(this).find('.live-counter div').text().trim();
-        const url = links[name]; // get the URL for the current channel
-
-        channels.push({
-            'id': id,
-            'name': name,
-            'description': description,
-            'thumbnail': thumbnail,
-            'liveCounter': liveCounter,
-            'url': url // add the URL to the channel object
-        });
-        id++; // increment the ID counter
-    });
-
-    return channels;
-}
-
-// Route to display the links as an array of objects
-app.get('/links', (req, res) => {
-    const linkArray = Object.entries(links).map(([name, url]) => ({
-        name,
-        url
-    }));
-    res.json(linkArray);
+  return {
+    id: channel.id,
+    name: channel.name,
+    icon: channel.icon,
+    thumbnail: socialInfo ? socialInfo.thumbnail : '',
+    streamUrls: (streamUrls || []).concat(update && update.updates && update.updates.streamUrls ? update.updates.streamUrls : []),
+    description: channel.description,
+    social: socialInfo ? { ...socialInfo.social, thumbnail: undefined } : {},
+    status: (streamUrls || []).length > 0 || (update && update.updates && update.updates.streamUrls && update.updates.streamUrls.length > 0) ? 'Online' : 'Offline',
+    views: channel.views
+  };
 });
 
-// Route to display the social links as an array of objects
-app.get('/social', (req, res) => {
-    const socialArray = Object.entries(socialLinks).map(([name, url]) => ({
-        name,
-        url
-    }));
-    res.json(socialArray);
+// Define the API endpoint to get all TV channel information
+app.get('/tv', (req, res) => {
+  res.json(mergedData);
 });
 
-// Route to display a specific channel by name
-app.get('/channels/:name', (req, res) => {
-    const channelUrl = links[req.params.name];
-    if (channelUrl) {
-        res.json({ 'name': req.params.name, 'url': channelUrl });
-    } else {
-        res.status(404).json({ 'error': `Channel ${req.params.name} not found` });
-    }
+// Define the API endpoint to get TV channel information by ID
+app.get('/tv/:id', (req, res) => {
+  const channelId = parseInt(req.params.id);
+  const channelInfo = mergedData.find(channel => channel.id === channelId);
+  if (channelInfo) {
+    res.json({ tv: channelInfo });
+  } else {
+    res.status(404).json({ error: 'TV channel not found' });
+  }
 });
 
-// Route to retrieve the channels data
-app.get('/channels', (req, res) => {
-    request(url, (error, response, body) => {
-        if (!error && response.statusCode == 200) {
-            const channels = extractChannels(body);
-            res.json({ 'channels': channels });
-        } else {
-            res.status(500).json({ 'error': 'Error occurred while extracting channels' });
-        }
-    });
-});
-
-// Route to update stream URLs
-app.put('/links', (req, res) => {
-    const newData = req.body;
-    links = newData;
-    fs.writeFileSync(linkDataPath, JSON.stringify(newData));
-    res.json({ 'message': 'Stream URLs updated successfully' });
-});
-
-// Route to update social links
-app.put('/social', (req, res) => {
-    const newData = req.body;
-    socialLinks = newData;
-    fs.writeFileSync(socialDataPath, JSON.stringify(newData));
-    res.json({ 'message': 'Social links updated successfully' });
-});
-
-// Route to add a new channel
-app.post('/channels', (req, res) => {
-    const data = req.body;
-    const name = data.name;
-    const url = data.url;
-    if (!name || !url) {
-        res.status(400).json({ 'error': 'Both name and URL are required to add a channel' });
-    } else if (name in links) {
-        res.status(400).json({ 'error': 'A channel with the same name already exists' });
-    } else {
-        links[name] = url;
-        const newChannel = {
-            'name': name,
-            'description': data.description,
-            'thumbnail': data.thumbnail,
-            'liveCounter': data.liveCounter,
-            'url': url
-        };
-        fs.writeFileSync(linkDataPath, JSON.stringify(links));
-        res.json({ 'message': 'Channel added successfully', 'newChannel': newChannel });
-    }
-});
-
-// Route to delete a channel
-app.delete('/channels/:name', (req, res) => {
-    if (!(req.params.name in links)) {
-        res.status(404).json({ 'error': 'Channel not found' });
-    } else {
-        delete links[req.params.name];
-        fs.writeFileSync(linkDataPath, JSON.stringify(links));
-        res.json({ 'message': 'Channel deleted successfully' });
-    }
-});
-
+// Start the server
+const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`);
+  console.log(`Server is running on http://localhost:${PORT}`);
 });
 

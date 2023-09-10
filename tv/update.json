@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "social": {
+      "Facebook": "https://facebook.com/channel1",
+      "Twitter": "https://twitter.com/channel1"
+    }
+  },
+  {
+    "id": 2,
+    "social": {
+      "Facebook": "https://facebook.com/channel2",
+      "Twitter": "https://twitter.com/channel2"
+    }
+  }
+]
+

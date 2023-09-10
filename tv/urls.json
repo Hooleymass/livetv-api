@@ -1,0 +1,1188 @@
+{
+  "urls": [
+    {
+      "id": 1,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UChBQgieUidXV1CmDxSdRm3g&autoplay=1&mute=0",
+        "https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_f874ce1063f311ec8cde2562e0492e2e/tracks-v1a1/mono.m3u8",
+        "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_f874ce1063f311ec8cde2562e0492e2e/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    {
+      "id": 2,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCkWr5PLM8hp8M4WNIkjpKsQ&autoplay=1&mute=0",
+        "https://www.dailymotion.com/embed/video/x7l3lxv?autoplay=1&quality=720&loop=1",
+        "https://www.youtube.com/embed/live_stream?channel=UCkWr5PLM8hp8M4WNIkjpKsQ&autoplay=1&mute=0"
+      ]
+    },
+    {
+      "id": 3,
+      "streamUrls": [
+        "https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/tracks-v1a1/mono.m3u8",
+        "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/tracks-v1a1/mono.m3u8",
+        "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8"
+      ]
+    },
+    {
+      "id": 4,
+      "streamUrls": [
+        "https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/tracks-v1a1/mono.m3u8",
+        "https://www.youtube.com/embed/live_stream?channel=UCZlNMLTVNxzwB0axilK-rDw&autoplay=1&mute=0",
+        "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/tracks-v1a1/mono.m3u8"
+      ]
+    },
+    {
+      "id": 5,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCqBJ47FjJcl61fmSbcadAVg&autoplay=1&mute=0",
+        "https://www.dailymotion.com/embed/video/x6shkab?autoplay=1&loop=1&quality=720",
+        "https://www.youtube.com/embed/live_stream?channel=UCqBJ47FjJcl61fmSbcadAVg&autoplay=1&mute=0"
+      ]
+    },
+    {
+      "id": 6,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCegApUZsuaWaXYf5g9W8Mzw&autoplay=1&mute=0",
+        "https://www.dailymotion.com/embed/video/x74211t?autoplay=1&mute=0",
+        "https://www.youtube.com/embed/live_stream?channel=UCypNjM5hP1qcUqQZe57jNfg&autoplay=1&mute=0"
+      ]
+    },
+    {
+      "id": 7,
+      "streamUrls": [
+        "https://5de06ce62a0b5.streamlock.net/k24/myStream/playlist.m3u8",
+        "https://www.youtube.com/embed/live_stream?channel=UCt3SE-Mvs3WwP7UW-PiFdqQ&autoplay=1&mute=0",
+        "https://5de06ce62a0b5.streamlock.net/k24/myStream/chunklist_w2071112328.m3u8"
+      ]
+    },
+    {
+      "id": 8,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCKVsdeoHExltrWMuK0hOWmg&hd=1&loop=1&autoplay=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 9,
+      "streamUrls": [
+        "https://goliveafrica.media/live/0/LolweTV?embed=1&autoplay=1&mute=0",
+        "https://goliveafrica.media:9998/live/62580e144eb43/index.m3u8",
+        "https://goliveafricamedialives1.cdn.ypt.me/62580e144eb43/index.m3u8"
+      ]
+    },
+    {
+      "id": 10,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=tv47kenya&mute=0&parent=kenyalivetv.co.ke",
+        "https://www.youtube.com/embed/live_stream?channel=UC_zA9UIWE1fB-jfFk_DBSYw&hd=1&loop=1&autoplay=1&mute=0",
+        "https://www.youtube.com/embed/Ehck2fLYdTw"
+      ]
+    },
+    {
+      "id": 11,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 12,
+      "streamUrls": [
+        "https://www.dailymotion.com/embed/video/x6ol8sj?autoplay=1&loop=1&quality=480",
+        "https://www.youtube.com/embed/live_stream?channel=UCd9nkc2XA77NMxBvQz35I2Q&autoplay=1&mute=0&index=1",
+        "https://www.youtube.com/embed/zXwhKxwOk_k?list=UUd9nkc2XA77NMxBvQz35I2Q"
+      ]
+    },
+    {
+      "id": 13,
+      "streamUrls": [
+        "https://www.dailymotion.com/embed/video/x7t23ue?quality=auto&autoplay=1&loop=1",
+        "https://www.youtube.com/embed/live_stream?channel=UCyN7zreAYtk9mRmuCw4ZzHA",
+        ""
+      ]
+    },
+    {
+      "id": 14,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=ebrutvkenya&mute=0&parent=kenyalivetv.co.ke",
+        "https://www.youtube.com/embed/live_stream?channel=UCdYjYt4YGhEbCGMv1fbv0pg&autoplay=1&mute=0",
+        "https://player.twitch.tv/?channel=ebrutvkenya&mute=0&parent=kenyalivetv.co.ke"
+      ]
+    },
+    {
+      "id": 15,
+      "streamUrls": [
+        "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_720p/chunks.m3u8",
+        "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_480p/chunks.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 16,
+      "streamUrls": [
+        "https://www.dailymotion.com/embed/video/x7tfayd?autoplay=1&loop=1&quality=480",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 17,
+      "streamUrls": [
+        "https://goliveafrica.media/live/0/UTV?embed=1&autoplay=1",
+        "https://goliveafrica.media:9998/live/62580d78ac508/index.m3u8",
+        "https://goliveafricamedialives1.cdn.ypt.me/62580d78ac508/index.m3u8"
+      ]
+    },
+    {
+      "id": 18,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=hlctv1&mute=0&parent=kenyalivetv.co.ke",
+        "https://goliveafrica.media/live/0/HLCTV?embed=1&autoplay=1&loop=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/627d06e001aaf/index.m3u8"
+      ]
+    },
+    {
+      "id": 19,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/MUKEUTV?embed=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 20,
+      "streamUrls": [
+        "https://streaming.jambutv.com:5443/LiveApp/streams/jambuweb.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined",
+        "https://streaming.jambutv.com:5443/LiveApp/streams/jambuweb.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined",
+        ""
+      ]
+    },
+    {
+      "id": 21,
+      "streamUrls": [
+        "https://ok.ru/videoembed/2352940981899?nochat=1&autoplay=1&mute=0",
+        "https://goliveafrica.media/live/1/LOOKUPTV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/625b9c56188b8/index.m3u8"
+      ]
+    },
+    {
+      "id": 22,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/KASSTV?embed=1",
+        "https://goliveafrica.media:9998/live/62f643cdca8cf/index.m3u8",
+        "https://goliveafricamedialives1.cdn.ypt.me/62f643cdca8cf/index.m3u8"
+      ]
+    },
+    {
+      "id": 23,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCHPJTU2lq20S3kQoDONYHgQ&hd=1&loop=1&autoplay=1&mute=0",
+        "https://goliveafrica.media/live/0/CapuchinTelevisionNetwork?embed=1&autoplay=1",
+        ""
+      ]
+    },
+    {
+      "id": 24,
+      "streamUrls": [
+        "https://goliveafrica.media/live/0/3STONESTV?embed=1&autoplay=1",
+        "https://goliveafrica.media:9998/live/63a59fa0e8a50/index.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 25,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 26,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/MERUTV?embed=1",
+        "https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 27,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=horizontvkenya&parent=kenyalivetv.co.ke",
+        "https://www.youtube.com/embed/live_stream?channel=UCxX78yhIy5hrdRApJQSkghw&hd=1&loop=1&autoplay=1&mute=0",
+        ""
+      ]
+    },
+    {
+      "id": 28,
+      "streamUrls": [
+        "https://www.dailymotion.com/embed/video/x87eanx?autoplay=1&loop=1",
+        "https://www.youtube.com/embed/live_stream?channel=UCruBkRNV0LkYdfcx4hptHFg&autoplay=1&mute=0",
+        ""
+      ]
+    },
+    {
+      "id": 29,
+      "streamUrls": [
+        "https://www.dailymotion.com/embed/video/x7sxle3?autoplay=1&loop=1",
+        "https://www.youtube.com/embed/live_stream?channel=UCUhrpGr_luwUzVaxiW5Jkhw&autoplay=1&mute=0",
+        ""
+      ]
+    },
+    {
+      "id": 30,
+      "streamUrls": [
+        "https://iframe.dacast.com/live/c27b4ca6-1dc4-2e19-9e94-2282b041e658/be547043-cc7f-c47d-530e-5a024284a6b0?mute=0&autoplay=1",
+        "https://universe-internal-iframe.dacast.com/live/c27b4ca6-1dc4-2e19-9e94-2282b041e658/be547043-cc7f-c47d-530e-5a024284a6b0",
+        "https://dacastmmd.mmdlive.lldns.net/dacastmmd/87ece2d3267f4f87a4313fc54f638b06/chunklist_b2592000.m3u8"
+      ]
+    },
+    {
+      "id": 31,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UC6WdGeTbFycaB3li8ANQ35w&autoplay=1&loop=1&mute=0",
+        "https://g4wlk9n8y23a-hls-live.5centscdn.com/mutongoitv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 32,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/MUUGITV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/62b3ffb71a3d6/index.m3u8",
+        "https://goliveafrica.media:9998/live/62b3ffb71a3d6/index.m3u8"
+      ]
+    },
+    {
+      "id": 33,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/SpiritTV?embed=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 34,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=tumainitv&mute=0&parent=kenyalivetv.co.ke",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 35,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/_62580593c3ee4?embed=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 36,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/RAIATV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/64873b6222c93/index.m3u8",
+        "https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8"
+      ]
+    },
+    {
+      "id": 37,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/NJATATV?embed=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 38,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 39,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/YAHWEHSTV?embed=1&autoplay=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 40,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/YounibTv?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/6257fbe7383d6/index.m3u8",
+        "https://goliveafrica.media:9998/live/6257fbe7383d6/index.m3u8"
+      ]
+    },
+    {
+      "id": 41,
+      "streamUrls": [
+        "https://live.livechurchafrica.com/live/b08d5f9d-2f7e-45e1-bbfb-217831320c98/index.m3u8",
+        "https://live.livechurchafrica.com/view/b08d5f9d-2f7e-45e1-bbfb-217831320c98/?embedded=True",
+        "https://goliveafrica.media/live/1/MOUNTAINOFPEACETV?embed=1"
+      ]
+    },
+    {
+      "id": 42,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/EBNTV?embed=1",
+        "https://www.youtube.com/embed/live_stream?channel=UCI-e6tx1cuE6QDYMhFvz3tQ",
+        "https://www.youtube.com/embed/live_stream?channel=UCI-e6tx1cuE6QDYMhFvz3tQ"
+      ]
+    },
+    {
+      "id": 43,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/NiceTv?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/64ada04aa7678/index.m3u8",
+        "https://goliveafrica.media:9998/live/64ada04aa7678/index.m3u8"
+      ]
+    },
+    {
+      "id": 44,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCk3buHLJP6KAcbtsw8fj4hg",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 45,
+      "streamUrls": [
+        "https://apps.digitaltv.co.ke/live/thstone.m3u8",
+        "https://apps.digitaltv.co.ke/live/2003.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 46,
+      "streamUrls": [
+        "https://ustream.tv/embed/23367184?autoplay=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 47,
+      "streamUrls": [
+        "https://app.jetstream.studio/livestream/embed/jsl:krAjUc5w5bwRsToSMPw3",
+        "https://videodelivery.net/0590f56b8092f8c130ee9fa7ebe782f7/manifest/stream_t2_r999999999.m3u8",
+        "https://videodelivery.net/0590f56b8092f8c130ee9fa7ebe782f7/manifest/video.m3u8"
+      ]
+    },
+    {
+      "id": 48,
+      "streamUrls": [
+        "https://eu-west-1.prod.tvcoins.com/player/player.html?tenant-id=atunwatv&channel-id=afa02909-7aba-4047-a6a9-074a10182de4",
+        "https://www.dailymotion.com/embed/video/x7opfez?autoplay=1",
+        "https://d2wiony5xyaqzr.cloudfront.net/out/v1/12397ab27b6b4af4ae0fbf706585e43b/index.mpd"
+      ]
+    },
+    {
+      "id": 49,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 50,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/SAYARETV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/636dedfa327d7/index.m3u8",
+        "https://goliveafrica.media:9998/live/636dedfa327d7/index.m3u8"
+      ]
+    },
+    {
+      "id": 51,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 52,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 53,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 54,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 55,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 56,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 57,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/ElevateTv?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/64a98a7eac12a/index.m3u8",
+        "https://goliveafrica.media:9998/live/64a98a7eac12a/index.m3u8"
+      ]
+    },
+    {
+      "id": 58,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/BTLTV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/638da5440743c/index.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 59,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/ElisamTV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/6283ba3305e3e/index.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 60,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/ICTV?embed=1",
+        "https://live.livechurchafrica.com/view/8d20bf41-9ec2-4caa-9420-d64652ed2516/?embedded=True",
+        "https://goliveafrica.media:9998/live/64b62c1457560/index.m3u8"
+      ]
+    },
+    {
+      "id": 61,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UClRWSjtKICEuSDJAzGCEddw&autoplay=1&mute=0&loop=1&index=1",
+        "https://www.youtube.com/embed/E0AvCTnaEJk?autoplay=1&mute=0&loop=1&index=1",
+        "https://www.youtube.com/embed/live_stream?channel=UClRWSjtKICEuSDJAzGCEddw&autoplay=1&mute=0&loop=1&index=2"
+      ]
+    },
+    {
+      "id": 62,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCYY18Magpox4H2wMJIXRjnA&autoplay=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 63,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCOlx2suH8RZnOgzsAiHPjqw&autoplay=1&mute=0",
+        "https://apps.digitaltv.co.ke/live/gikuyu.m3u8",
+        "https://apps.digitaltv.co.ke/live/2008.m3u8"
+      ]
+    },
+    {
+      "id": 64,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCOlxF0jvPWVon2Bc9PGkxBQ&autoplay=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 65,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/NISSITV?embed=1",
+        "https://www.youtube.com/embed/live_stream?channel=UCgoQgVST6YzOaCKl45Gjktg&autoplay=1&loop=1&mute=0",
+        ""
+      ]
+    },
+    {
+      "id": 66,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/GPGTVKENYA?embed=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 67,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=mbcitv&mute=0&parent=kenyalivetv.co.ke",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 68,
+      "streamUrls": [
+        "https://live.livechurchafrica.com/live/8ea60f22-6d8a-4d77-a7fc-0fb352ff6d4a/index.m3u8",
+        "https://live.livechurchafrica.com/view/8ea60f22-6d8a-4d77-a7fc-0fb352ff6d4a/?embedded=True",
+        "https://goliveafrica.media/live/1/ALLTIMETV?embed=1"
+      ]
+    },
+    {
+      "id": 69,
+      "streamUrls": [
+        "https://goliveafrica.media/liveLinkEmbed/2/afrobeats-24-7",
+        "https://stream.ecable.tv/afrobeats/tracks-v3a1/mono.m3u8",
+        "https://stream.ecable.tv/afrobeats/index.m3u8"
+      ]
+    },
+    {
+      "id": 70,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCaUubK7_VrPJnzB_-hiRJlA&autoplay=1&loop=1&mute=0",
+        "https://signstv.ml/signstv.webm",
+        "https://signstv.ml/signstv.mp4"
+      ]
+    },
+    {
+      "id": 71,
+      "streamUrls": [
+        "https://www.lightcast.com/embed/player.php?id=39565&height=600&autoplay=1&loop=1&mute=0&type=live",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 72,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/SOATV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/6268e317152cc/index.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 73,
+      "streamUrls": [
+        "https://www.youtube.com/embed/iSp55jvHh9s?autoplay=1loop=1&mute=0",
+        "https://iframe.dacast.com/b/131260/c/501550",
+        ""
+      ]
+    },
+    {
+      "id": 74,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=startvtanzania&parent=kenyalivetv.co.ke",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 75,
+      "streamUrls": [
+        "https://arktelevision.org/",
+        "https://arktelevision.org/hlslive/test/test.m3u8",
+        "https://live.livechurchafrica.com/view/fadea70c-f1dc-4ed5-89ac-94f490cd2fa0/?embedded=True"
+      ]
+    },
+    {
+      "id": 76,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCTX5MKA5RgKPyYmGWEXX6cQ&autoplay=1&loop=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 77,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 78,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCNye-wNBqNL5ZzHSJj3l8Bg&autoplay=1&loop=1&mute=0",
+        "https://live-hls-web-aje.getaj.net/AJE/04.m3u8",
+        "https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_83f5335063e811ecb28b5d4f40b51a46/index.m3u8"
+      ]
+    },
+    {
+      "id": 79,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 80,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=awesomekenya&parent=kenyalivetv.co.ke",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 81,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCoMdktPbSTixAyNGwb-UYkQ&autoplay=1&loop=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 82,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCwga1dPCqBddbtq5KYRii2g&autoplay=1&loop=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 83,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCk3buHLJP6KAcbtsw8fj4hg",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 84,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/PillarTV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/627e198474bd1/index.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 85,
+      "streamUrls": [
+        "https://player.castr.com/live_5ffe3dc07b8f11ec89fd476d1ed4a755?autoplay=1&loop=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 86,
+      "streamUrls": [
+        "https://player.castr.com/live_36e8f510dfee11ec9dc2d5b207a2c04f?autoplay=1&loop=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 87,
+      "streamUrls": [
+        "https://stream.hydeinnovations.com/bukedde1flussonic/tracks-v4a1/mono.m3u8",
+        "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 88,
+      "streamUrls": [
+        "https://stream.hydeinnovations.com/bukedde2flussonic/tracks-v4a1/mono.m3u8",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 89,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCByj0XrDmb0UDUui63EOnhA&autoplay=1&loop=1&mute=0",
+        "https://apps.digitaltv.co.ke//live//3013.m3u8",
+        "https://www.youtube.com/embed/uPXIM8us_yc"
+      ]
+    },
+    {
+      "id": 90,
+      "streamUrls": [
+        "http://www.dailymotion.com/embed/video/x7yr9c4?api=0&autoplay=1&info=0&logo=0&social=0&controls=1&related=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 91,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 92,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UC16niRr50-MSBwiO3YDb3RA&autoplay=1&loop=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 93,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCEXGDNclvmg6RW0vipJYsTQ&live_stream=2&autoplay=1&loop=1&mute=0",
+        "https://www.youtube.com/embed/2mfBfjTKPG8",
+        ""
+      ]
+    },
+    {
+      "id": 94,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 95,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UC1_E8NeF5QHY2dtdLRBCCLA&autoplay=1&loop=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 96,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 97,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 98,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 99,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCXuseB7juWB7DIgTJcwtHFQ&autoplay=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 100,
+      "streamUrls": [
+        "https://apps.digitaltv.co.ke/live/2007.m3u8",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 101,
+      "streamUrls": [
+        "https://apps.digitaltv.co.ke/live/2004.m3u8",
+        "https://apps.digitaltv.co.ke/live/2004_480p1128kbs/index.m3u8",
+        "https://apps.digitaltv.co.ke/live/destiny.m3u8"
+      ]
+    },
+    {
+      "id": 102,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCrBGAWr24pPQn-HUWZDBelQ&hd=1&loop=1&autoplay=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 103,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 104,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 105,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 106,
+      "streamUrls": [
+        "//ok.ru/videoembed/5270734052880?nochat=1&autoplay=1&mute=0",
+        "https://apps.digitaltv.co.ke/live/muthingitv.m3u8",
+        "https://apps.digitaltv.co.ke/live/2005_480p1128kbs/index.m3u8"
+      ]
+    },
+    {
+      "id": 107,
+      "streamUrls": [
+        "https://apps.digitaltv.co.ke/live/fogtv.m3u8",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 108,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=tandao_tv&mute=0&parent=kenyalivetv.co.ke",
+        "https://goliveafrica.media/live/1/TANDAOTV?embed=1",
+        "https://player.twitch.tv/?channel=tandao_tv&mute=0&parent=kenyalivetv.co.ke"
+      ]
+    },
+    {
+      "id": 109,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCKf9xsi0uL1mwdrq7PmZsQA&autoplay=1&mute=0&loop=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 110,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/UkomboziTV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/63f4b89fcdbf5/index.m3u8",
+        "https://goliveafrica.media:9998/live/63f4b89fcdbf5/index.m3u8"
+      ]
+    },
+    {
+      "id": 111,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 112,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/WeegaTV?embed=1",
+        "https://www.youtube.com/embed/live_stream?channel=UCd16EVvI63vVjwI8pGViGPw&hd=1&loop=1&autoplay=1&mute=0",
+        "https://goliveafricamedialives1.cdn.ypt.me/63c29777da9ef/index.m3u8"
+      ]
+    },
+    {
+      "id": 113,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=testimony_tv&mute=0&parent=kenyalivetv.co.ke",
+        "https://www.dailymotion.com/embed/video/x82zfiv?autoplay=1&loop=1&quality=480",
+        ""
+      ]
+    },
+    {
+      "id": 114,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 115,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/DGTVKENYA?embed=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 116,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 117,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCn765mUiVoEeB-uz81sjd9w&autoplay=1&loop=1&mute=0",
+        "https://goliveafrica.media/live/1/HelicopterTV?embed=1",
+        "https://www.youtube.com/embed/live_stream?channel=UCn765mUiVoEeB-uz81sjd9w&autoplay=1&loop=1&mute=0"
+      ]
+    },
+    {
+      "id": 118,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/MASSATV?embed=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 119,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/GITHIMATV?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/6485725d9e228/index.m3u8",
+        "https://www.youtube.com/embed/live_stream?channel=UCQsMjswMGveeqshHnv7G4MA&autoplay=1&mute=0&loop=1"
+      ]
+    },
+    {
+      "id": 120,
+      "streamUrls": [
+        "https://apps.digitaltv.co.ke/live/jiamtv.m3u8",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 121,
+      "streamUrls": [
+        "https://tunzilla.com/http://goliveafrica.media/live/1/NDURUMENITV?embed=1",
+        "https://tunzilla.com/http://goliveafricamedialives1.cdn.ypt.me/6389d571d20af/index.m3u8",
+        "https://tunzilla.com/http://goliveafrica.media:9998/live/6389d571d20af/index.m3u8"
+      ]
+    },
+    {
+      "id": 122,
+      "streamUrls": [
+        "https://apps.digitaltv.co.ke/live/2027.m3u8",
+        "https://www.youtube.com/embed/live_stream?channel=UCN62Zc1jpAOinPyOfzIjYOA&autoplay=1&loop=1&mute=0",
+        ""
+      ]
+    },
+    {
+      "id": 123,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCXWKQR3oSHpr6x8twy-JwHQ&autoplay=1&loop=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 124,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 125,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/GTNTV?embed=1",
+        "https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8",
+        "https://goliveafrica.media:9998/live/644e07abdc1d3/index.m3u8"
+      ]
+    },
+    {
+      "id": 126,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 127,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=zoetelevision&mute=0&parent=kenyalivetv.co.ke",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 128,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCMkTTxBX-hlSAKnXbwq6Fbw&hd=1&loop=1&autoplay=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 129,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCbCmjCuTUZos6Inko4u57UQ&hd=1&loop=1&autoplay=1",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 130,
+      "streamUrls": [
+        "https://tunzilla.com/http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8",
+        "https://tunzilla.com/http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8",
+        "http://streamer02.nbo1.angani.co:1935/aviationtv/myStream/playlist.m3u8"
+      ]
+    },
+    {
+      "id": 131,
+      "streamUrls": [
+        "https://apps.digitaltv.co.ke/live/2009.m3u8",
+        "https://apps.digitaltv.co.ke/live/2009_480p1128kbs/index.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 132,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 133,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UC-GobfsmiVucOlOWEpMDZ3g&hd=1&loop=1&autoplay=1&mute=0",
+        "https://goliveafrica.media/live/1/MOUNTAINOFFIRETV?embed=1",
+        ""
+      ]
+    },
+    {
+      "id": 134,
+      "streamUrls": [
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 135,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCxJF6j-YQBE5V-AT7Zr3dnw&autoplay=1&loop=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 136,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/JCMTV?embed=1",
+        "https://goliveafrica.media:9998/live/646c92d07b16c/index.m3u8",
+        "https://goliveafricamedialives1.cdn.ypt.me/646c92d07b16c/index.m3u8"
+      ]
+    },
+    {
+      "id": 137,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=doxatvkenya&mute=0&parent=kenyalivetv.co.ke",
+        "https://www.youtube.com/embed/live_stream?channel=UCsjOTZT2jPf7o3bDU-rQ1jg&hd=1&loop=1&autoplay=1&mute=0",
+        ""
+      ]
+    },
+    {
+      "id": 138,
+      "streamUrls": [
+        "https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 139,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCdTAsRrQEp-IVoMzKoRG4ZQ&hd=1&loop=1&autoplay=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 140,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCF9yr4UH50kxkxf6R8CkA8A&hd=1&loop=1&autoplay=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 141,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCsvHhd8RSZFN1vUUctqRh0Q&hd=1&loop=1&autoplay=1&mute=0",
+        "",
+        ""
+      ]
+    },
+    {
+      "id": 142,
+      "streamUrls": [
+        "https://salttelevision.com/memfs/d1b981f8-317d-4750-8eb0-1c116add469c.m3u8",
+        "https://salttelevision.com/memfs/d1b981f8-317d-4750-8eb0-1c116add469c.m3u8?session=EbdspzHzWtKQ2goRhtTfYW",
+        ""
+      ]
+    },
+    {
+      "id": 143,
+      "streamUrls": [
+        "https://stream.hydeinnovations.com/boratv/tracks-v1a1/mono.m3u8",
+        "https://stream.hydeinnovations.com/boratv/tracks-v1a1/mono.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 144,
+      "streamUrls": [
+        "https://stream.hydeinnovations.com/urban-flussonic/tracks-v2a1/mono.m3u8",
+        "https://stream.hydeinnovations.com/urban-flussonic/index.m3u8",
+        ""
+      ]
+    },
+    {
+      "id": 145,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/_64abb7b2532b2?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/64abbde3b6d20/index.m3u8",
+        "https://goliveafrica.media:9998/live/64abbde3b6d20/index.m3u8"
+      ]
+    },
+    {
+      "id": 146,
+      "streamUrls": [
+        "https://goliveafrica.media/live/1/MasharikiTVKenya?embed=1",
+        "https://goliveafricamedialives1.cdn.ypt.me/634adc0806f2b/index.m3u8",
+        "https://goliveafrica.media:9998/live/634adc0806f2b/index.m3u8"
+      ]
+    },
+    {
+      "id": 147,
+      "streamUrls": [
+        "https://player.twitch.tv/?channel=mamlakatv&mute=0&parent=kenyalivetv.co.ke",
+        "https://www.youtube.com/embed/live_stream?channel=UCLYXfLiMpt1E2SsVnhyY_xA&hd=1&loop=1&autoplay=1&mute=0",
+        "https://limex.tv/mamlaka_tv_eng"
+      ]
+    },
+    {
+      "id": 148,
+      "streamUrls": [
+        "https://www.youtube.com/embed/live_stream?channel=UCKk2VU9VEXwpHTX0G1YELZw&autoplay=1&mute=0",
+        "",
+        ""
+      ]
+    }
+  ]
+}
