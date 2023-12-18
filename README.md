@@ -1,11 +1,10 @@
 TV
 ---
-```copy
-https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_720p/chunks.m3u8
-```
-<a>
-https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_480p/chunks.m3u8
-</a>
+[720p](
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_720p/chunks.m3u8)
+
+
+[480p](https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_480p/chunks.m3u8)
 
 # TV Channel Data Scrapers
 
