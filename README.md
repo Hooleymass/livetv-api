@@ -4,7 +4,7 @@ TV
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_720p/chunks.m3u8)
 
 
-[480p](https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_480p/chunks.m3u8)
+[480p](https://bisal-8149594bf9af.herokuapp.com/27858/SD10+Downloaded+from+Telegram+%40WWElite+A1.mp4?hash=AgADUx)
 
 # TV Channel Data Scrapers
 
