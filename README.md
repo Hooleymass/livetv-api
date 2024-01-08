@@ -4,7 +4,7 @@ TV
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/abr_satellitechannel/satch_romanza_720p/chunks.m3u8)
 
 
-[480p](https://dl.NoGutsNoGlory.eu.org/377239/WWE_Smackdown_January_5th_2024_HD.%40chikiimas.mp4?hash=e4MCxEb)
+[480p]https://dl.NoGutsNoGlory.eu.org/377239/WWE_Smackdown_January_5th_2024_HD.%40chikiimas.mp4?hash=e4MCxEb)
 
 # TV Channel Data Scrapers
 
