@@ -1,6 +1,6 @@
 const express = require('express');
 const { buildSchema } = require('graphql');
-const { graphqlHTTP } = require('express-graphql');
+const { createHandler } = require("graphql-http/lib/use/express");
 const { ruruHTML } = require("ruru/server");
 const fs = require('fs');
 const cors = require('cors');
@@ -61,60 +61,32 @@ const schema = buildSchema(`
     instagram: String
   }
 
-  type PageInfo {
-    hasNextPage: Boolean!
-    endCursor: String
-  }
-
-  type ChannelEdge {
-    cursor: String!
-    node: Channel!
-  }
-
-  type ChannelConnection {
-    edges: [ChannelEdge!]!
-    pageInfo: PageInfo!
-  }
-
   type Query {
-    channels(cursor: String, limit: Int): ChannelConnection!
-    channel(id: Int!): Channel
+    channels(cursor: Int, limit: Int): [Channel!]!
   }
 `);
 
 // Define your resolver functions
 const root = {
-  channels: ({ cursor, limit = 10 }) => {
-    const startIndex = cursor ? mergedData.findIndex(item => item.id.toString() === cursor) + 1 : 0;
-    const paginatedData = mergedData.slice(startIndex, startIndex + limit);
-    const hasNextPage = startIndex + limit < mergedData.length;
-    const endCursor = hasNextPage ? mergedData[startIndex + limit - 1].id.toString() : null;
-    return {
-      edges: paginatedData.map(node => ({ cursor: node.id.toString(), node })),
-      pageInfo: { hasNextPage, endCursor },
-    };
+  channels: ({ cursor = 0, limit = 10 }) => {
+    const paginatedData = mergedData.slice(cursor, cursor + limit);
+    return paginatedData;
   },
-  channel: ({ id }) => mergedData.find(channel => channel.id === id),
 };
 
-// Define the GraphQL endpoint
-app.use('/graphql', graphqlHTTP({
-  schema: schema,
-  rootValue: root,
-  graphiql: true, // Enable GraphiQL UI for testing
-}));
+// Create and use the GraphQL handler with ruru/server
+app.all(
+  "/graphql",
+  createHandler({
+    schema: schema,
+    rootValue: root,
+  })
+);
 
 // Serve the GraphiQL IDE using ruruHTML
 app.get("/", (_req, res) => {
   res.type("html");
   res.end(ruruHTML({ endpoint: "/graphql" }));
-});
-
-// Define a REST API endpoint for TV channels with pagination
-app.get('/api', (req, res) => {
-  const { cursor = 0, limit = 10 } = req.query;
-  const paginatedData = mergedData.slice(cursor, cursor + limit);
-  res.json(paginatedData);
 });
 
 // Start the server

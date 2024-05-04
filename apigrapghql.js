@@ -1,7 +1,6 @@
 const express = require('express');
-const { buildSchema } = require('graphql');
 const { graphqlHTTP } = require('express-graphql');
-const { ruruHTML } = require("ruru/server");
+const { buildSchema } = require('graphql');
 const fs = require('fs');
 const cors = require('cors');
 
@@ -61,54 +60,25 @@ const schema = buildSchema(`
     instagram: String
   }
 
-  type PageInfo {
-    hasNextPage: Boolean!
-    endCursor: String
-  }
-
-  type ChannelEdge {
-    cursor: String!
-    node: Channel!
-  }
-
-  type ChannelConnection {
-    edges: [ChannelEdge!]!
-    pageInfo: PageInfo!
-  }
-
   type Query {
-    channels(cursor: String, limit: Int): ChannelConnection!
-    channel(id: Int!): Channel
+    tvChannels(cursor: Int, limit: Int): [Channel!]!
   }
 `);
 
 // Define your resolver functions
 const root = {
-  channels: ({ cursor, limit = 10 }) => {
-    const startIndex = cursor ? mergedData.findIndex(item => item.id.toString() === cursor) + 1 : 0;
-    const paginatedData = mergedData.slice(startIndex, startIndex + limit);
-    const hasNextPage = startIndex + limit < mergedData.length;
-    const endCursor = hasNextPage ? mergedData[startIndex + limit - 1].id.toString() : null;
-    return {
-      edges: paginatedData.map(node => ({ cursor: node.id.toString(), node })),
-      pageInfo: { hasNextPage, endCursor },
-    };
+  tvChannels: ({ cursor = 0, limit = 10 }) => {
+    const paginatedData = mergedData.slice(cursor, cursor + limit);
+    return paginatedData;
   },
-  channel: ({ id }) => mergedData.find(channel => channel.id === id),
 };
 
-// Define the GraphQL endpoint
+// Define the GraphQL endpoint using express-graphql
 app.use('/graphql', graphqlHTTP({
   schema: schema,
   rootValue: root,
   graphiql: true, // Enable GraphiQL UI for testing
 }));
-
-// Serve the GraphiQL IDE using ruruHTML
-app.get("/", (_req, res) => {
-  res.type("html");
-  res.end(ruruHTML({ endpoint: "/graphql" }));
-});
 
 // Define a REST API endpoint for TV channels with pagination
 app.get('/api', (req, res) => {
