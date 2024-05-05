@@ -110,95 +110,22 @@ app.get("/", (_req, res) => {
   res.end(ruruHTML({ endpoint: "/graphql" }));
 });
 
-// Validation middleware
-function validateParams(req, res, next) {
-  let { cursor, limit } = req.query;
+// Define a REST API endpoint for TV channels with pagination
+app.get('/api', (req, res) => {
+  let { cursor = 0, limit = 10 } = req.query;
+  cursor = parseInt(cursor); // Ensure cursor is an integer
+  limit = parseInt(limit); // Ensure limit is an integer
 
-  // Validate cursor (should be a non-negative integer)
-  cursor = parseInt(cursor);
-  if (isNaN(cursor) || cursor < 0) {
-    return res.status(400).json({ error: "Invalid cursor value. Must be a non-negative integer." });
-  }
-
-  // Validate limit (should be a positive integer)
-  limit = parseInt(limit);
-  if (isNaN(limit) || limit <= 0) {
-    return res.status(400).json({ error: "Invalid limit value. Must be a positive integer." });
-  }
-
-  // Attach validated values to request object
-  req.validatedParams = { cursor, limit };
-  next();
-}
-
-// Define sorting options
-const SORT_OPTIONS = {
-  name: (a, b) => a.name.localeCompare(b.name),
-  views: (a, b) => a.views - b.views,
-  status: (a, b) => a.status.localeCompare(b.status),
-  // Add more sorting options as needed
-};
-
-/* Define the REST API endpoint for TV channels with pagination, sorting, and filtering
-app.get('/api', validateParams, (req, res) => {
-  const { cursor, limit } = req.validatedParams;
-  let { sort, filterStatus, filterViews } = req.query;
-
-  // Default sort by channel ID
-  sort = SORT_OPTIONS[sort] ? sort : 'id';
-
-  // Apply sorting to mergedData
-  let sortedData = mergedData.sort(SORT_OPTIONS[sort]);
-
-  // Filter based on status if provided
-  if (filterStatus) {
-    sortedData = sortedData.filter(channel => channel.status === filterStatus);
-  }
-
-  // Filter based on views if provided
-  if (filterViews) {
-    const minViews = parseInt(filterViews);
-    sortedData = sortedData.filter(channel => channel.views >= minViews);
-  }
-
-  // Apply pagination to sorted and filtered data
-  const paginatedData = sortedData.slice(cursor, cursor + limit);
-
-  res.json(paginatedData);
-});*/
-
-// Define the REST API endpoint for TV channels with pagination, sorting, and filtering
-app.get('/api', validateParams, (req, res) => {
-  const { cursor, limit } = req.validatedParams;
-  let { sort, filterStatus, filterViews } = req.query;
-
-  // Default sort by channel ID
-  sort = SORT_OPTIONS[sort] ? sort : 'id';
-
-  // Apply sorting to mergedData
-  let sortedData = mergedData.sort(SORT_OPTIONS[sort]);
-
-  // Filter based on status if provided
-  if (filterStatus) {
-    sortedData = sortedData.filter(channel => channel.status === filterStatus);
-  }
-
-  // Filter based on views if provided
-  if (filterViews) {
-    const minViews = parseInt(filterViews);
-    sortedData = sortedData.filter(channel => channel.views >= minViews);
-  }
-
-  // Calculate the correct indices after sorting and filtering
+  // Calculate start and end indices for pagination
   const startIndex = cursor;
   const endIndex = startIndex + limit;
 
-  // Apply pagination to sorted and filtered data
-  const paginatedData = sortedData.slice(startIndex, endIndex);
+  // Slice the mergedData based on calculated indices
+  const paginatedData = mergedData.slice(startIndex, endIndex);
 
+  // Return paginated data
   res.json(paginatedData);
 });
-
 
 // Start the server
 const PORT = process.env.PORT || 3000;
